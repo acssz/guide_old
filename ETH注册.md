@@ -33,7 +33,7 @@ myStudies本体: <https://www.lehrbetrieb.ethz.ch/myStudies/login.view?lang=en>
 注册学期和注册课程都需要在myStudies上面完成，请按网页上的指示完成注册。
 
 VVZ本体：<https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/sucheLehrangebotPre.do?lang=enVVZ>
-相关网页：<https://ethz.ch/students/en/studies/academic-support/course-catalogue.html\\>
+相关网页：<https://ethz.ch/students/en/studies/academic-support/course-catalogue.html\\\\>
 
 ## 5. 考试注册(exam registration) 
 
