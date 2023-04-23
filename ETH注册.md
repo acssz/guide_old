@@ -54,7 +54,7 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 在ETH，课程的评分因课而异：小部分课程是所谓学期表现(semester performance)；大部分课程是考试，考试又分session exam，end of semester exam，和oral exam(口试)。
 semester performance具体指什么取决于具体课程，一般是各种projects，labs和presentation。**semester performance一般不需要额外注册，当你注册了这门课的时候你就已经自动注册了相关的semester performance**。
-考试的话，ETH和其他许多学校不同的一点就是，考试和课程是分开的，即你需要单独注册考试，只注册了课程不代表你就可以参加考试；你也可以只注册课程而不参加考试(但拿不到学分)——不排除有些同学想要旁听一些课程但不想过多投入时间精力。考试注册也是在myStudies上进行的，具体的开放注册考试日期和退考日期会由Kanzlei电邮通知。**注意，三种考试都需要注册**。end of semester exam和session exam基本只区别在考试时间，即如其名所示，前者是学期结束就开考，而后者是在寒/暑假结束之后有一个专门的时间来考试；oral exam即口试，形式和找工作的面试很相似，需要大家有较好的语言能力。
+考试的话，ETH和其他许多学校不同的一点就是，考试和课程是分开的，即你需要单独注册考试，只注册了课程不代表你就可以参加考试，而只有通过考试才能拿到学分；你也可以只注册课程而不参加考试(但拿不到学分)——不排除有些同学想要旁听一些课程但不想过多投入时间精力。考试注册也是在myStudies上进行的，具体的开放注册考试日期和退考日期会由Kanzlei电邮通知。**注意，三种考试都需要注册**。end of semester exam和session exam基本只区别在考试时间，即如其名所示，前者是学期结束就开考，而后者是在寒/暑假结束之后有一个专门的时间来考试；oral exam即口试，形式和找工作的面试很相似，需要大家有较好的语言能力。
 
 > 相关网页：<https://ethz.ch/applications/teaching/en/applications/mystudies/matriculation/examinations/registration.html>
 > 以及<https://ethz.ch/students/en/studies/performance-assessments.html>
