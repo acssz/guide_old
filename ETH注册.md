@@ -1,8 +1,5 @@
 因不同院系的具体注册流程略有不同，且有些因疫情所采取的措施仍未完全取消，所以本文仅作参考。新生可能会面对以下几个主要问题：
 
-^
-
-*本科选课+考试*
 
 ^
 
@@ -38,7 +35,7 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 ^
 
-#### **4. 学期注册 semester enrollment 及课程注册 course enrollment**&#x20;
+#### **4. 硕博-学期注册 semester enrollment 及课程注册 course enrollment**&#x20;
 
 不同的院系会有各自的迎新会及info session，会具体讲本院系的具体注册要求及学业要求，请以其为准；相关时间地点等信息应该已经或将要发送给新生了。
 每个学生都需要在新学期开始前进行学期注册，具体开放时间会由Kanzlei发邮件通知；**请注意，注册之后马上就可以注册课程了**。大部分课程的容量都很宽裕，但有些很热门的课程(比如春季学期的IML — introduction to machine learning)是非常抢手的，所以需要尽快注册。推荐在注册日期开始前先在VVZ (德语缩写，即course catalogue)规划一下自己想要上哪些课。也请注意心仪课程的评分标准，是考试还是学期表现；具体见下。
@@ -53,7 +50,7 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 ^
 
-#### **5. 考试注册 exam registration**&#x20;
+#### **5. 硕博-考试注册 exam registration**&#x20;
 
 在ETH，课程的评分因课而异：小部分课程是所谓学期表现(semester performance)；大部分课程是考试，考试又分session exam，end of semester exam，和oral exam(口试)。
 semester performance具体指什么取决于具体课程，一般是各种projects，labs和presentation。**semester performance一般不需要额外注册，当你注册了这门课的时候你就已经自动注册了相关的semester performance**。
@@ -63,3 +60,6 @@ semester performance具体指什么取决于具体课程，一般是各种projec
 > 以及<https://ethz.ch/students/en/studies/performance-assessments.html>
 
 ^
+#### **6. 本科-学期注册(Semester einschreiben)、课程注册(Lerneinheiten belegen)及考试注册(Prüfung anmelden)**&#x20;
+本科学生的学期注册与硕博学生相同，在myStudies中注册即可；
+与硕博不同，本科，尤其是本科第一年的选课余地是非常小的：学校已经根据你所申请的专业为你安排好了第一个学期的必修课程模块，在mystudies里可以一键注册。（未完成）
