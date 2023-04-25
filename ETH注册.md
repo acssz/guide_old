@@ -33,7 +33,8 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 > 相关网页：<https://ethz.ch/students/en/studies/academic-support/web-based-platforms/mystudies.html>
 > 以及<https://ethz.ch/content/dam/ethz/main/continuing-education/Merkblaetter/Login_Einschreibung2021.pdf>
 
-[Moodle](<https://moodle-app2.let.ethz.ch/auth/shibboleth/login.php>)则是ETH使用的学习资料发布平台，讲师的笔记、教案等资料都会在此上传，许多作业也需要从这里下载（并在这里完成、提交）。该平台的登录信息与myStudies相同，按相关邮件指导执行即可。
+[Moodle](<https://moodle-app2.let.ethz.ch/auth/shibboleth/login.php>)则是ETH使用的学习资料发布平台（有网页版，手机/平板电脑app版供选择），讲师的笔记、教案等资料都会在此上传，许多作业也需要从这里下载（并在这里完成、提交）。该平台的登录信息与myStudies相同，按相关邮件指导执行即可。
+此外，还有EduApp也是较为常用的app，主要用于课表查看、信息查询、课上互动等。
 
 ^
 
