@@ -76,12 +76,12 @@ semester performance具体指什么取决于具体课程，一般是各种projec
 部分“习题课”会有分类情况，也就是说不同的小组会有不同的侧重点（如侧重巩固基础，侧重习题分析等），这类“习题课”的选组一般会在开学后才开放，届时讲师将在课上对不同组别的分类情况进行讲解。
 如果你发现你心仪的小组已满（无论是开学前还是开学后），可先选另一组备用，同时经常刷新查看，待心仪组出现空位后再换过去；如所有小组均已满，讲师会开启第二轮选组的。（如你开学后发现你选择的组的助教并不适合你，你完全可以直接“溜”到另一组而无需做任何注册，理论上学校不鼓励这种做法，但所有人都在这样做）
 ^
-关于考试，本科第一年的考试（一般被称作"Basisprüfung"）以Session Exam为主，按专业不同可分为两种情况：
+关于考试，本科第一年的考试以在Exam Session期间举行的“Basisprüfung”为主，按专业不同可分为两种情况：
 * 学生需要在寒假（1-2月）、暑假（8月）的Exam Session中分别参加考试
 * 学生仅需要在暑期（8月）的Exam Session中参加考试
 
-"Basisprüfung"是按模块（Basisprüfung Block）组织的，模块中包含了不同的科目（均为你所注册的必修课），参加"Basisprüfung"需要在myStudies中注册，注册开放时（一般是学期开始后1个月内）校方会有邮件通知，届时按通知执行即可。此处同样是一键注册。
-虽然校历上Session Exam持续一个月左右，但这并不意味着这一个月都是考试。你的考试可能只分布在1-2周中，余下的时间对你来说就是假期，因此不要被长达一个月的Exam Session吓到了^_^。
-"Basisprüfung"的考试形式分笔试和口试，具体各专业差别很大。此外，"Basisprüfung"的成绩是按照Basisprüfung Block中各个科目的加权平均分计算得来的，也就是说即使有不及格的科目，只要加权平均分及格，整个"Basisprüfung"依然视为及格/通过，也就不需要进行任何补考。通过第一个学年的所有"Basisprüfung"（1个或者2个，如前文所述，根据专业有所不同）是晋入第二学年的必要条件。
-此外，部分科目可能会有额外的考试，或者不属于"Basisprüfung Block"而是进行单独考核，这部分考试不需要进行注册，讲师会通过邮件或课上告知的方式通知你。
-为了帮助大家顺利开学，ETH提供了题为"Studienstart für Bachelor-Studierende"的[信息页](<https://ethz.ch/de/studium/bachelor/studienstart.html>)，强烈建议大家阅读参考。此外，校方在开学前会为本科新生组织"[Prestudy Event](<https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html>)"活动，其中会有老师详细介绍有关你的专业的信息（学术、行政、组织等均会涉及），也会有（与你同系同学一起的）小组活动，届时会有邮件通知。如果时间允许，我们强烈建议参加该活动，能够更好地帮助你了解新的环境（往年该活动均有线上选择，但不确定今年是否仍然提供该选项）。另外ETH还贴心地为大家准备了[“开学前检查单（Checkliste «Studienstart»）”](<https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf>)（该“检查单”中内容均为超链接，点击可直接跳转），同样强烈建议大家阅读参考（其中的"Militär / Zivildienst / Zivilschutz"一条不适用于非瑞士公民）。
+“Basisprüfung”是按模块（“Basisprüfung Block”）组织的，模块中包含了不同的科目（均为你所注册的必修课），参加“Basisprüfung”需要在myStudies中注册，注册开放时（一般是学期开始后1个月内）校方会有邮件通知，届时按通知执行即可。此处同样是一键注册。
+虽然校历上Exam Session持续一个月左右，但这并不意味着这一个月都是考试。你的考试可能只分布在1-2周中，余下的时间对你来说就是假期，因此不要被长达一个月的Exam Session吓到了^_^。
+“Basisprüfung”的考试形式分笔试和口试，具体各专业差别很大。此外，“Basisprüfung”的成绩是按照“Basisprüfung Block”中各个科目的加权平均分计算得来的，也就是说即使有不及格的科目，只要加权平均分及格，整个“Basisprüfung”依然视为及格/通过，也就不需要进行任何补考。通过第一个学年的所有“Basisprüfung”（1个或者2个，如前文所述，根据专业有所不同）是晋入第二学年的必要条件。
+此外，部分科目可能会有额外的考试，或者不属于“Basisprüfung Block”而是进行单独考核，这部分考试不需要进行注册，讲师会通过邮件或课上告知的方式通知你。
+为了帮助大家顺利开学，ETH提供了题为“Studienstart für Bachelor-Studierende”的[信息页](<https://ethz.ch/de/studium/bachelor/studienstart.html>)，强烈建议大家阅读参考。此外，校方在开学前会为本科新生组织[“Prestudy Event”](<https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html>)活动，其中会有老师详细介绍有关你的专业的信息（学术、行政、组织等均会涉及），也会有（与你同系同学一起的）小组活动，届时会有邮件通知。如果时间允许，我们强烈建议参加该活动，能够更好地帮助你了解新的环境（往年该活动均有线上选择，但不确定今年是否仍然提供该选项）。另外ETH还贴心地为大家准备了[“开学前检查单（Checkliste «Studienstart»）”](<https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf>)（该“检查单”中内容均为超链接，点击可直接跳转），同样强烈建议大家阅读参考（其中的“Militär / Zivildienst / Zivilschutz”一条不适用于非瑞士公民）。
