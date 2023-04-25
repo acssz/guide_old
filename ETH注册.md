@@ -68,12 +68,12 @@ semester performance具体指什么取决于具体课程，一般是各种projec
 本科学生的学期注册流程与硕博学生相同，在[myStudies](<https://www.lehrbetrieb.ethz.ch/myStudies/login.view>)中注册即可（网址见前文）；
 与硕博不同，本科，尤其是本科第一年的选课余地是非常小的：学校已经根据你所申请的专业为你安排好了第一个学年的必修课程模块（具体信息请参见[ETH官网-Studienangebot](<https://ethz.ch/de/studium/bachelor/studienangebot.html>)部分，并选择自己的专业），在myStudies里一键注册即可（仅能注册第一学期的，第二学期的需要在第一学期后期注册，届时学校会有邮件通知）。如你还希望选修其他课程，请参照硕博部分执行（本科，尤其是本科第一年强度很高，因此不建议选修其他课程）。
 在ETH，课程主要分为两类：
-* 由教授或讲师（统称为Dozent*in）主讲，全系学生一起听课的课程叫做”大课“（Vorlesung），主要讲授理论知识，一般在阶梯教室进行
-* 由助教（Teaching Assistant，简称TA）主讲，小班授课的课程叫做”习题课“（Übung），会对”大课“上的理论知识进行回顾、并通过做题来练习其应用，是”大课“的重要补充
+* 由教授或讲师（统称为Dozent*in）主讲，全系学生一起听课的课程叫做“大课（Vorlesung）”，主要讲授理论知识，一般在阶梯教室进行
+* 由助教（Teaching Assistant，简称TA）主讲，小班授课的课程叫做“习题课（Übung）”，会对“大课”上的理论知识进行回顾、并通过做题来练习其应用，是“大课”的重要补充
 
-这里需要注意，对于大多数课程，完成注册后还需要选择”习题课“的小组（下简称“选组”）。部分课程的选组在注册后即开放，部分则需要等到开学前，甚至开学后（部分讲师可能希望在开放选组前对其进行一些说明）。我们建议，对于已开放选组的课程，尽快选择一组。选组一般情况下没有什么参考，只需注意不同课程的选组不要有时间冲突即可；部分”习题课“有多个时间可选，选一个适合你的即可（当然地点也是一个考虑因素：前课和后课所在教室的距离不宜过远，校园地图可在EduApp或[官网](<https://ethz.ch/de/campus/erreichen.html>)查看）。
+这里需要注意，对于大多数课程，完成注册后还需要选择“习题课”的小组（下简称“选组”）。部分课程的选组在注册后即开放，部分则需要等到开学前，甚至开学后（部分讲师可能希望在开放选组前对其进行一些说明）。我们建议，对于已开放选组的课程，尽快选择一组。选组一般情况下没有什么参考，只需注意不同课程的选组不要有时间冲突即可；部分“习题课”有多个时间可选，选一个适合你的即可（当然地点也是一个考虑因素：前课和后课所在教室的距离不宜过远，校园地图可在EduApp或[官网](<https://ethz.ch/de/campus/erreichen.html>)查看）。
 
-部分”习题课“会有分类情况，也就是说不同的小组会有不同的侧重点（如侧重巩固基础，侧重习题分析等），这类“习题课”的选组一般会在开学后才开放，届时讲师将在课上对不同组别的分类情况进行讲解。
+部分“习题课”会有分类情况，也就是说不同的小组会有不同的侧重点（如侧重巩固基础，侧重习题分析等），这类“习题课”的选组一般会在开学后才开放，届时讲师将在课上对不同组别的分类情况进行讲解。
 如果你发现你心仪的小组已满（无论是开学前还是开学后），可先选另一组备用，同时经常刷新查看，待心仪组出现空位后再换过去；如所有小组均已满，讲师会开启第二轮选组的。（如你开学后发现你选择的组的助教并不适合你，你完全可以直接“溜”到另一组而无需做任何注册，理论上学校不鼓励这种做法，但所有人都在这样做）
 ^
 关于考试，本科第一年的考试（一般被称作"Basisprüfung"）以Session Exam为主，按专业不同可分为两种情况：
@@ -84,4 +84,4 @@ semester performance具体指什么取决于具体课程，一般是各种projec
 虽然校历上Session Exam持续一个月左右，但这并不意味着这一个月都是考试。你的考试可能只分布在1-2周中，余下的时间对你来说就是假期，因此不要被长达一个月的Exam Session吓到了^_^。
 "Basisprüfung"的考试形式分笔试和口试，具体各专业差别很大。此外，"Basisprüfung"的成绩是按照Basisprüfung Block中各个科目的加权平均分计算得来的，也就是说即使有不及格的科目，只要加权平均分及格，整个"Basisprüfung"依然视为及格/通过，也就不需要进行任何补考。通过第一个学年的所有"Basisprüfung"（1个或者2个，如前文所述，根据专业有所不同）是晋入第二学年的必要条件。
 此外，部分科目可能会有额外的考试，或者不属于"Basisprüfung Block"而是进行单独考核，这部分考试不需要进行注册，讲师会通过邮件或课上告知的方式通知你。
-为了帮助大家顺利开学，ETH提供了题为“Studienstart für Bachelor-Studierende”的[信息页](<https://ethz.ch/de/studium/bachelor/studienstart.html>)，强烈建议大家阅读参考。此外，校方在开学前会为本科新生组织"[Prestudy Event](<https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html>)"活动，其中会有老师详细介绍有关你的专业的信息（学术、行政、组织等均会涉及），也会有（与你同系同学一起的）小组活动，届时会有邮件通知。如果时间允许，我们强烈建议参加该活动，能够更好地帮助你了解新的环境（往年该活动均有线上选择，但不确定今年是否仍然提供该选项）。另外ETH还贴心地为大家准备了[“开学前检查单”（Checkliste «Studienstart»）](<https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf>)（该“检查单”中内容均为超链接，点击可直接跳转），同样强烈建议大家阅读参考（其中的“Militär / Zivildienst / Zivilschutz”一条不适用于非瑞士公民）。
+为了帮助大家顺利开学，ETH提供了题为"Studienstart für Bachelor-Studierende"的[信息页](<https://ethz.ch/de/studium/bachelor/studienstart.html>)，强烈建议大家阅读参考。此外，校方在开学前会为本科新生组织"[Prestudy Event](<https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html>)"活动，其中会有老师详细介绍有关你的专业的信息（学术、行政、组织等均会涉及），也会有（与你同系同学一起的）小组活动，届时会有邮件通知。如果时间允许，我们强烈建议参加该活动，能够更好地帮助你了解新的环境（往年该活动均有线上选择，但不确定今年是否仍然提供该选项）。另外ETH还贴心地为大家准备了[“开学前检查单（Checkliste «Studienstart»）”](<https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf>)（该“检查单”中内容均为超链接，点击可直接跳转），同样强烈建议大家阅读参考（其中的"Militär / Zivildienst / Zivilschutz"一条不适用于非瑞士公民）。
