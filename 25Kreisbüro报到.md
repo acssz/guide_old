@@ -1,4 +1,5 @@
 #### **1. 查询所属Kreisbüro**
+
 首先你需要通过以下网址查询自己的住址所属的Kreisbüro是哪一个，不要想当然地直接去最近的Kreisbüro，笔者租的第一个房子刚好处在两个区划的边界上面，结果对应的Kreisbüro反而就是大老远的一个
 <https://www.stadt-zuerich.ch/prd/en/index/bevoelkerungsamt/Contact_Information_and_Opening_Hours/district_office_kreisbuero.html>
 
@@ -23,6 +24,6 @@
 
 ^
 
-#### **4**. **临时居留证(Meldebestätigung)**
+#### **4**. **临时居留证(Meldebestätigung**)
 
-完成Kreisbüro的注册之后工作人员会给你一张临时居留证（一张含有你个人信息和移民局盖章的A4纸）。相比于正式的居留卡，这张证明作用比较有限。但也请妥善保管，因为这会你就可以用它办理瑞士本地的银行卡了，包括一张储蓄卡以及一张Prepaid卡（即额度为0的信用卡，需要提前充值才能使用）。
+完成Kreisbüro的注册之后工作人员会给你一张临时居留证（一张含有你个人信息和移民局盖章的A4纸）。相比于正式的居留卡，这张证明使用频率相对较低。但也**请妥善保管**，因为这会你就可以用它办理瑞士本地的银行卡了，包括一张储蓄卡以及一张Prepaid（即额度为0的信用卡，需要提前充值才能使用）/Credit卡。此外未来如果需要[搬家](https://www.stadt-zuerich.ch/appl/euzwww/login.xhtml)，也需要用到这张纸上的参考号。
