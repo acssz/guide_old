@@ -15,7 +15,7 @@
 
 ^
 
-### **2. 学生卡激活 （Validation）**&#x20;
+### **2. 学生卡激活 （Validation**）&#x20;
 
 学生卡（legi）是很重要的身份证件，它可以让你以学生价格在食堂吃饭，很多门票也有学生价，等等。学生卡上印刷有有效期，一般比当前学期略长。新生刚拿到学生卡时应该已经是激活状态，如果不是请尽快激活。具体做法是找到一个Validation Terminal，按照屏幕指示操作（操作非常傻瓜化，基本就是插进去，等待，然后拔卡）。在将来注册了新学期（见下）之后，也请尽快再次激活。
 
@@ -45,7 +45,7 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 每个学生都必须在每个新学期开始前进行学期注册，具体开放时间会由Kanzlei发邮件通知；
 **请注意，注册之后马上就可以注册课程了**。在硕士阶段，绝大部分专业都有较大的自主选择空间；大部分课程的容量都很宽裕，但有些很热门的课程（比如春季学期的IML — Introduction to Machine Learning）是非常抢手的，所以需要尽快注册。推荐在注册日期开始前先在[VVZ](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/sucheLehrangebotPre.do?lang=enVVZ)（德语全称Vorlesungsverzeichnis，英文为Course Catalogue）规划一下自己想要上哪些课。也请注意心仪课程的评分标准，是考试还是学期表现；具体见下文。
 
-**注册学期和注册课程都需要在[myStudies](https://www.lehrbetrieb.ethz.ch/myStudies/login.view)上面完成，按网页上的指示完成注册即可。**
+**注册学期和注册课程都需要在**[myStudies](https://www.lehrbetrieb.ethz.ch/myStudies/login.view)**上面完成，按网页上的指示完成注册即可**。
 
 *关于本升硕之间的gap semester/year：如果本科不是瑞士学位，官方是不允许注册leave of abscence的（这样不需要交学费）；但如果你只注册了学期而不注册任何课程和考试，那你可以事实上有gap semester/year，只是要白交一个学期的学费（如果gap year，第二学期即可注册leave of abscence）。注意：两种选择都会算进学位时限，请小心安排*
 
@@ -83,7 +83,7 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 ^
 
-### **5. 考试注册(EN: Exam Registration, DE: Prüfung Anmelden)**&#x20;
+### **5. 考试注册(EN: Exam Registration, DE: Prüfung Anmelden**)&#x20;
 
 #### **考试概况**
 
