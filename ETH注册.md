@@ -1,4 +1,4 @@
-*因不同院系、不同专业、不同学位等均可能有不同的要求和指示，且有些因疫情所采取的措施仍未完全取消，故本文仅做参考，若本文与校方信息不符，以校方信息为准。本文讨论了在一般情况下的以下话题。*
+因不同院系、不同专业、不同学位等均可能有不同的要求和指示，且有些因疫情所采取的措施仍未完全取消，故本文仅做参考，若本文与校方信息不符，以校方信息为准。本文讨论了在一般情况下的以下话题。
 
 ^
 
@@ -7,28 +7,30 @@
 大部分新生应当是需要当面报到（也推荐当面报到），一般来说是到Kanzlei（德语，英文是Registrar’s Office）。Kanzlei当场也会给你发一系列文件，比如Matriculation Form和学生卡等。前者是很重要的文件，你在Kreisbüro注册、办理保险等事项上都需要用到，具体参见指南相关部分；学生卡参见下文。
 有些同学可能需要提交一些补充材料，比如毕业证书等，具体要求及接收地址应该在各自的录取信中有提到；一般来说也是提交到Kanzlei。**请注意提交补充文件的截止日期避免延误**。如需取回申请时提交的原件，一般也是在Kanzlei领取。
 
-> **参考：**
+> **参考**：
+>
 > * ETH HG（主楼） 地址：Rämistrasse 101, 8092 Zurich
 > * Kanzlei地址：HG F层 19
 > * Kanzlei开放时间：每周一、周四 11:00 - 13:00
 > * 关于Kanzlei：
-> <https://ethz.ch/students/en/studies/administrative.html>
+>   <https://ethz.ch/students/en/studies/administrative.html>
 > * 关于学期、课程注册：
-> <https://ethz.ch/students/en/continuing-education/enrolment.html>
+>   <https://ethz.ch/students/en/continuing-education/enrolment.html>
 
 ^
 
-### **2. 学生卡激活 （Validation）**&#x20;
+### **2. 学生卡激活 （Validation**）&#x20;
 
 学生卡（legi）是很重要的身份证件，它可以让你以学生价格在食堂吃饭，很多门票也有学生价，等等。学生卡上印刷有有效期，一般比当前学期略长。新生刚拿到学生卡时应该已经是激活状态，如果不是请尽快激活。具体做法是找到一个Validation Terminal，按照屏幕指示操作（操作非常傻瓜化，基本就是插进去，等待，然后拔卡）。在将来注册了新学期（见下）之后，也请尽快再次激活。
 
 > **参考： 关于学生卡**
-> * ETH学生卡简介: 
-> <https://ethz.ch/students/en/studies/administrative/eth-card.html>
-> * ETH学生卡的使用: 
-> <https://ethz.ch/content/dam/ethz/main/continuing-education/Merkblaetter/ETH%20Karte%20Info.pdf>
-> * Validation Terminal地点: 
-> <https://ethz.ch/staffnet/en/service/eth-card/validity-period-validation/validation-terminal-locations.html>
+>
+> * ETH学生卡简介:
+>   <https://ethz.ch/students/en/studies/administrative/eth-card.html>
+> * ETH学生卡的使用:
+>   <https://ethz.ch/content/dam/ethz/main/continuing-education/Merkblaetter/ETH%20Karte%20Info.pdf>
+> * Validation Terminal地点:
+>   <https://ethz.ch/staffnet/en/service/eth-card/validity-period-validation/validation-terminal-locations.html>
 
 ^
 
@@ -37,17 +39,18 @@
 myStudies可能是你在ETH最重要的网页了，你需要在上面完成很多事情，比如注册新学期、注册课程、注册考试（见下）、更新个人信息等。相关的细节以及个人登录信息应该已经或将要通过电邮发送给新生了，请按照指示完成更改密码等一系列操作。
 
 > **参考：关于myStudies**
+>
 > * 本体：
-> https://www.lehrbetrieb.ethz.ch/myStudies/login.view?lang=en>
+>   [https://www.lehrbetrieb.ethz.ch/myStudies/login.view?lang=en>](https://www.lehrbetrieb.ethz.ch/myStudies/login.view?lang=en>)
 > * myStudies简介：
-> <https://ethz.ch/students/en/studies/academic-support/web-based-platforms/mystudies.html>
+>   <https://ethz.ch/students/en/studies/academic-support/web-based-platforms/mystudies.html>
 > * myStudies的登陆以及学期注册：<https://ethz.ch/content/dam/ethz/main/continuing-education/Merkblaetter/Login_Einschreibung2021.pdf>
 
 ^
 
-### **4. 学期注册（semester enrollment）及课程注册（course enrollment）**&#x20;
+### **4. 学期注册（semester enrollment）及课程注册（course enrollment**）&#x20;
 
-***不同的专业及不同学位会有各自的迎新会及Info Session，会具体解释具体注册要求及学业要求**，相关时间地点等信息应该已经或将要发送给新生了。如校方通知与下文有所出入，以校方通知为准。*
+***不同的专业及不同学位会有各自的迎新会及Info Session，会具体解释具体注册要求及学业要求***，*相关时间地点等信息应该已经或将要发送给新生了。如校方通知与下文有所出入，以校方通知为准*。
 
 ^
 
@@ -58,25 +61,28 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 **注册学期和注册课程都需要在**[myStudies](https://www.lehrbetrieb.ethz.ch/myStudies/login.view)**上面完成，按网页上的指示完成注册即可**。
 
-*关于本升硕之间的gap semester/year：如果本科不是瑞士学位，官方是不允许注册leave of abscence的（这样不需要交学费）；但如果你只注册了学期而不注册任何课程和考试，那你可以事实上有gap semester/year，只是要白交一个学期的学费（如果gap year，第二学期即可注册leave of abscence）。注意：两种选择都会算进学位时限，请小心安排。*
+*关于本升硕之间的gap semester/year：如果本科不是瑞士学位，官方是不允许注册leave of abscence的（这样不需要交学费）；但如果你只注册了学期而不注册任何课程和考试，那你可以事实上有gap semester/year，只是要白交一个学期的学费（如果gap year，第二学期即可注册leave of abscence）。注意：两种选择都会算进学位时限，请小心安排*。
 
-^
 ^
 
 #### **4.2 本科选课介绍**
-*为了帮助大家顺利开学，ETH提供了题为“Studienstart für Bachelor-Studierende”的[信息页](https://ethz.ch/de/studium/bachelor/studienstart.html)，强烈建议大家阅读参考。此外，校方在开学前会为本科新生组织[“Prestudy Event”](https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html)活动，其中会有老师详细介绍有关你的专业的信息（学术、行政、组织等均会涉及），也会有（与你同系同学一起的）小组活动，届时会有邮件通知。如果时间允许，我们强烈建议参加该活动，能够更好地帮助你了解新的环境（往年该活动均有线上选择，但不确定今年是否仍然提供该选项）。另外ETH还贴心地为大家准备了[“开学前检查单（Checkliste «Studienstart»）”](https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf)（该“检查单”中内容均为超链接，点击可直接跳转），同样强烈建议大家阅读参考（其中的“Militär / Zivildienst / Zivilschutz”一条不适用于非瑞士公民）。*
 
-> **参考：**
+*为了帮助大家顺利开学，ETH提供了题为“Studienstart für Bachelor-Studierende”的*[信息页](https://ethz.ch/de/studium/bachelor/studienstart.html)，*强烈建议大家阅读参考。此外，校方在开学前会为本科新生组织*[“Prestudy Event”](https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html)*活动，其中会有老师详细介绍有关你的专业的信息（学术、行政、组织等均会涉及），也会有（与你同系同学一起的）小组活动，届时会有邮件通知。如果时间允许，我们强烈建议参加该活动，能够更好地帮助你了解新的环境（往年该活动均有线上选择，但不确定今年是否仍然提供该选项）。另外ETH还贴心地为大家准备了*[“开学前检查单（Checkliste «Studienstart»）”](https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf)（*该“检查单”中内容均为超链接，点击可直接跳转），同样强烈建议大家阅读参考（其中的“Militär / Zivildienst / Zivilschutz”一条不适用于非瑞士公民*）。
+
+> **参考**：
+>
 > * “Studienstart für Bachelor-Studierende”信息页: <https://ethz.ch/de/studium/bachelor/studienstart.html>
-> * 关于“Prestudy Event”: 
-> <https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html>
+> * 关于“Prestudy Event”:
+>   <https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html>
 > * “开学前检查单”: <https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf>
 
 本科生的学期注册（DE: Semester einschreiben）流程与硕博学生相同，在[myStudies](https://www.lehrbetrieb.ethz.ch/myStudies/login.view)中注册即可。
 本科的课程注册（DE: Lerneinheiten belegen）则与硕博学生有所不同，尤其是本科第一年，其选课余地是非常小的：学校已经根据你所申请的专业为你安排好了第一个学年的必修课程模块（具体信息请参见[Studienangebot](https://ethz.ch/de/studium/bachelor/studienangebot.html)部分，并选择自己的专业），在myStudies里一键注册即可（仅能注册第一学期的，第二学期的需要在第一学期后期注册，届时Kanzlei会有邮件通知）。如你还希望选修其他课程，请参照硕博部分执行（本科，尤其是本科第一年强度很高，因此不建议选修其他课程）。
-> **参考：**
+
+> **参考**：
+>
 > * 关于本科的Studienangebot:
-> <https://ethz.ch/de/studium/bachelor/studienangebot.html>
+>   <https://ethz.ch/de/studium/bachelor/studienangebot.html>
 
 ^
 
@@ -95,20 +101,21 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 对于规模较小的课程（常见于硕士阶段），大部分的课程都只有一个“习题课”小组，所以不需要额外注册。
 
-> **参考（以下链接既适用于本科学生，又适用于硕博学生）：**
+> **参考（以下链接既适用于本科学生，又适用于硕博学生**）：
+>
 > > 关于Vorlesungsverzeichnis - VVZ：
-> >* 本体: <https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/sucheLehrangebotPre.do?lang=enVVZ>
-> >* 相关介绍：
-> >VVZ简介：
-> <https://ethz.ch/students/en/studies/academic-support/course-catalogue.html>
-> >VVZ所载信息的阅读：<https://ethz.ch/applications/teaching/en/applications/vvz/details.html>
-> 
-> >关于Leave of Abscence：
-> >https://ethz.ch/students/en/studies/administrative/leave-of-absence.html>
-> 
-> 
-> >关于课程种类：
-> ><https://ethz.ch/content/dam/ethz/main/eth-zurich/education/lehrentwicklung/files_EN/Liste_LehrveranstaltungstypenEN.pdf>
+> >
+> > * 本体: <https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/sucheLehrangebotPre.do?lang=enVVZ>
+> > * 相关介绍：
+> >   VVZ简介：
+> >   <https://ethz.ch/students/en/studies/academic-support/course-catalogue.html>
+> >   VVZ所载信息的阅读：<https://ethz.ch/applications/teaching/en/applications/vvz/details.html>
+>
+> > 关于Leave of Abscence：
+> > [https://ethz.ch/students/en/studies/administrative/leave-of-absence.html>](https://ethz.ch/students/en/studies/administrative/leave-of-absence.html>)
+>
+> > 关于课程种类：
+> > <https://ethz.ch/content/dam/ethz/main/eth-zurich/education/lehrentwicklung/files_EN/Liste_LehrveranstaltungstypenEN.pdf>
 
 ^
 
@@ -141,13 +148,12 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 * “Basisprüfung”的总成绩是按照“Basisprüfung Block”中各个科目的加权平均分计算得来的，也就是说即使有不及格的科目，只要加权平均分（总成绩）及格，整个“Basisprüfung”依然视为及格/通过，也就不需要进行任何补考。**通过第一个学年的所有“Basisprüfung”（1个或者2个，如前文所述，根据专业有所不同）是晋入第二学年的必要条件**。
 * 部分科目可能会有额外的考试，或者不属于“Basisprüfung Block”而是进行单独考核，这部分考试不需要进行注册，讲师会通过邮件或课上告知的方式通知你。
 
-
-> **参考（以下链接既适用于本科学生，又适用于硕博学生）：**
+> **参考（以下链接既适用于本科学生，又适用于硕博学生**）：
+>
 > * 关于考试注册：<https://ethz.ch/applications/teaching/en/applications/mystudies/matriculation/examinations/registration.html>
 > * 关于Performance Assessment: <https://ethz.ch/students/en/studies/performance-assessments.html>
-> * 关于考试种类: 
-> <https://ethz.ch/students/en/studies/performance-assessments/examination-types.html>
-
+> * 关于考试种类:
+>   <https://ethz.ch/students/en/studies/performance-assessments/examination-types.html>
 
 ^
 
@@ -161,6 +167,6 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 EduApp也是较为常用的app，主要用于课表查看、信息查询、课上互动等。
 
-#### **6.3 食堂app（菜单查看）**
+#### **6.3 食堂app（菜单查看**）
 
 人是铁饭是钢，既要好好学习，更要好好吃饭，我们推荐下载一个查看食堂菜单的app，可以在应用商店里搜索”ETH & UZH Mensa“之后选择一款。（更多同学反应UZH的食堂更好吃一点）

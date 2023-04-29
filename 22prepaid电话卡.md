@@ -13,7 +13,7 @@
 
 此外，三大运营商除了同名品牌外，也有许多**子品牌**以丰富自己的产品与服务，子品牌使用运营商的通信设施。如Swisscom有wingo、Migros Budget Mobile、Coop Mobile、Lycamobile， Sunrise有Lebara、Yallo、Swype等。
 
-> 参考链接：<https://www.chip.de/artikel/Handy-Netztest-Schweiz-Swisscom-Sunrise-und-Salt-im-Test_184173323.html>
+> <https://www.chip.de/artikel/Handy-Netztest-Schweiz-Swisscom-Sunrise-und-Salt-im-Test_184173323.html>
 
 ^
 
