@@ -1,6 +1,8 @@
 {
     "title": "2023年苏黎世新生文档",
     "plugins": [
-        "baidu-tongji"
+        "baidu-tongji",
+        "image-zoom",
+        "bilibili"
     ]
 }
