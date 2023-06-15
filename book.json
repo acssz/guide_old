@@ -1,3 +1,6 @@
 {
-    "title": "苏黎世新生文档"
+    "title": "苏黎世新生文档",
+    "plugins": [
+        "comment"
+    ]
 }
