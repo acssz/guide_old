@@ -1,6 +1,12 @@
 {
     "title": "苏黎世新生文档2023",
     "plugins": [
-        "baidu-tongji"
-    ]
+        "baidu-tongji",
+        "assistant"
+    ],
+    "pluginsConfig": {
+        "assistant": {
+            "siteId": "w9aAm1av"
+        }
+    }
 }
