@@ -47,11 +47,14 @@ Salt → <https://www.salt.ch/en>
 
 **1. Sunrise Lebara Prepaid Card**
 
-从2023年初开始，学联从Sunrise运营商处为新生争取了原价49瑞郎的Suinrise Lebara Prepaid卡（Europe MAX Prepaid）前四周骨折价福利。该Prepaid套餐包含：
+从2023年初开始，学联从Sunrise运营商处为新生争取了原价49瑞郎的Suinrise Lebara Prepaid电话卡骨折价福利。该Prepaid卡包含：
 
-* 瑞士境内无限流量（首月40GB高速，之后20GB高速，高速用完后是限速256kbps的无限流量）
-* 瑞士境内以及瑞士向欧洲无限通话
-* 世界范围无限短信
+* Europe MAX Prepaid套餐（原价39瑞/4周，学联有专属前4周免费福利，立省39瑞），套餐具体内容为：
+
+  1. 瑞士境内无限流量（前四周40GB高速，之后每四周是20GB高速，高速用完后是限速256kbps的无限流量）
+  2. 瑞士境内以及瑞士向欧洲无限通话
+  3. 世界范围无限短信
+
 * 以及10瑞郎的预存款（Credit）
 
 现在，新生可凭录取邮件/注册证明/学生卡（任一文件即可），**仅需10瑞预存费（Credit）即可获得这张总价值49瑞郎的Prepaid卡**。
