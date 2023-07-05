@@ -62,7 +62,7 @@ myStudies可能是你在ETH最重要的网页了，你需要在上面完成很�
 
 **注册学期和注册课程都需要在**[myStudies](https://www.lehrbetrieb.ethz.ch/myStudies/login.view)**上面完成，按网页上的指示完成注册即可**。
 
-*关于本升硕之间的gap semester/year：如果本科不是瑞士学位，官方是不允许注册leave of abscence的（这样不需要交学费）；但如果你只注册了学期而不注册任何课程和考试，那你可以事实上有gap semester/year，只是要白交一个学期的学费（如果gap year，第二学期即可注册leave of abscence）。注意：两种选择都会算进学位时限，请小心安排*。
+*关于本升硕之间的gap semester/year：有些同学可能想要在本硕之间take gap semester/year。如果本科不是瑞士学位，官方是不允许注册leave of abscence的（这样不需要交学费）；但如果你只注册了学期而不注册任何课程和考试，那你可以事实上有gap semester/year，只是要白交一个学期的学费（如果gap year，第二学期即可注册leave of abscence）。注意：两种选择都会算进学位时限，请小心安排*。
 
 ^
 
