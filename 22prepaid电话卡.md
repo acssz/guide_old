@@ -70,7 +70,7 @@ Salt → <https://www.salt.ch/en>
 ^
 
 ![](.topwrite/assets/newprice2.png)
-**套餐价格随运营商活动有微小浮动，本表整理的价格为截至2023年7月10日的价格，实际套餐价格以激活prepaid/postpaid卡当日的价格为准*
+\**套餐价格随运营商活动有微小浮动，本表整理的价格为截至2023年7月10日的价格，实际套餐价格以激活prepaid/postpaid卡当日的价格为准*
 
 ^
 
