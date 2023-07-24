@@ -1,3 +1,5 @@
+> [success] 本章作者：陈雨航
+
 注：其实注册流程基本上在录取通知书上面写得一清二楚了，以下链接为学校官方的注册流程指南，但目前UZH网站处于升级过程问题比较多，各种404，有可能上不去：
 
 <https://www.uzh.ch/cmsssl/oec/en/studies/admission/matriculation.html>
