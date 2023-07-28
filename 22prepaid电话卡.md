@@ -1,6 +1,7 @@
 > [success] 本章作者：杨锦涛
 
-> [warning] *本章节仅介绍瑞士本地电话卡的办理，关于国内设备和SIM卡在国外的使用请参考[12 国内手机及电话卡](<12国内手机及电话卡.md>)章节。*
+> [warning] *本章节仅介绍瑞士本地电话卡的办理，关于国内设备和SIM卡在国外的使用请参考*[12 国内手机及电话卡](12国内手机及电话卡.md)*章节*。
+
 #### **1. 瑞士电信运营商简介**
 
 瑞士三家主要的电信运营商是Swisscom，Sunrise和Salt。据CHIP和NETCHECK在2021年的测评，Swisscom总评分位居首位，Sunrise紧跟其后，位于第三位的是Salt。具体单项上：
@@ -68,7 +69,7 @@ Salt → <https://www.salt.ch/en>
 
 该选项不仅面向刚来瑞士的新生，还面向想要更换高性价比套餐的老生。这些套餐几乎均为Sunrise的平替，除品牌名称不同外，其具体内容和Sunrise其它产品几乎一样。
 
-由Prepaid卡（包括Lebara和其它品牌Prepaid）或其它品牌Postpaid卡转为Sunrise Lebara Postpaid（携号转卡），**现仅需0瑞或10瑞激活费（Activation Fee**）。若选择12月合同，可**免去**59瑞Activation Fee；若选择0月合同，**仅需**10瑞Activation Fee即可实现转卡。**转卡后，可享受Lebara Postpaid Card各套餐的最低价**：
+由Prepaid卡（包括Lebara Prepaid和其它品牌Prepaid）或其它品牌Postpaid卡转为Sunrise Lebara Postpaid（携号转卡），**现仅需0瑞或10瑞激活费（Activation Fee**）。若选择12月合同，可**免去**59瑞Activation Fee；若选择0月合同，**仅需**10瑞Activation Fee即可实现转卡。**转卡后，可享受Lebara Postpaid Card各套餐的最低价**：
 
 ^
 
