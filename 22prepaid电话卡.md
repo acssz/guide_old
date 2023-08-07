@@ -25,11 +25,13 @@
 
 瑞士电话卡分为Prepaid Card（预付卡）和Postpaid Card（合约卡），目前瑞士约80%的用户均为Postpaid Card（合约卡）。
 
-两种电话卡各有千秋。Prepaid卡和国内的电话卡模式类似，先充值后使用，如果余额不足，服务便会被终止。Prepaid卡缺点是相同服务下，Prepaid的价格通常会比Postpaid卡贵，且选择种类较少。Postpaid卡一般会有丰富的套餐选项，且价格吸引人。Postpaid卡仅针对在瑞士合法居留的人，即收到Residence Permit（居留卡）后才能申请，且一般合约最低期限为12个月。
+两种电话卡各有千秋。Prepaid卡和国内的电话卡模式类似，先充值后使用，如果余额不足，服务便会被终止。Prepaid卡缺点是相同服务下，Prepaid的价格通常会比Postpaid卡贵，且选择种类较少。Postpaid卡一般会有丰富的套餐选项，且价格吸引人。对于Sunrise及其子品牌，Postpaid卡仅针对在瑞士合法居留的人，即收到Residence Permit（居留卡）后才能申请。
 
 在瑞士，两种电话卡均需实名才能购买。
 
 ![](.topwrite/assets/image_1682191920709.png =556)
+
+（本表为Sunrise公司规定，其它运营商规定请自行查询）
 
 ^
 
