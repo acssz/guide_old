@@ -1,6 +1,7 @@
 {
     "title": "苏黎世留学 - 生活指南\/新生手册",
     "plugins": [
-        "comment"
+        "comment",
+        "components"
     ]
 }
