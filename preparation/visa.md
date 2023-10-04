@@ -2,7 +2,7 @@
 
 > [info] 本章节最近更新于：2023年XX月XX日
 
-> [danger]【学联提醒】*对于“申请签证”这件可以一票决定未来人生走向的大事上，学联强烈推荐**直接且仔细阅读官方信息来源***，*包含[苏黎世州移民局](https://www.zh.ch/de/migration-integration/einreise/einreise-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)，[ETH](https://ethz.ch/en/studies/international/after-admission/immigration/visa.html)，[UZH](https://www.uzh.ch/cmsssl/en/studies/application/entry/guidelines.html)，[瑞士驻华使领馆](https://www.eda.admin.ch/countries/china/en/home/visa/entry-ch/more-90-days/documents-national.html)等。以下仅为针对它们的简单总结与梳理，我们强烈建议**直接阅读相关原文并获取信息**！*
+> [danger] 【学联提醒】*对于“申请签证”这件可以一票决定未来人生走向的大事上，学联强烈推荐**直接且仔细阅读官方信息来源***，*包含*[苏黎世州移民局](https://www.zh.ch/de/migration-integration/einreise/einreise-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)，[ETH](https://ethz.ch/en/studies/international/after-admission/immigration/visa.html)，[UZH](https://www.uzh.ch/cmsssl/en/studies/application/entry/guidelines.html)，[瑞士驻华使领馆](https://www.eda.admin.ch/countries/china/en/home/visa/entry-ch/more-90-days/documents-national.html)*等。以下仅为针对它们的简单总结与梳理，我们强烈建议**直接阅读相关原文并获取信息***！
 
 > [warning] 本章节后期考虑简要添加以下内容（如必要，部分信息将请新生提供）：
 >
@@ -26,8 +26,9 @@
 
 换言之，**大多数赴瑞求学的中国留学生在首次赴瑞留学前需要提前办理申根D类签证，并凭此入境瑞士**。对于少数符合上述“不需要办理签证”条件的留学生，请参考[Immigration to Switzerland - Immigration without a visa](https://ethz.ch/en/studies/international/after-admission/immigration/without-visa.html)。
 此外，如先前因在瑞士就读中学而持有瑞士居留证，而其在中学毕业后大学开学前到期的，或有其他类似情况（如EPFL转ETH等）的，可选择向苏黎世州移民局申请办理
-- 延期（Verlängerung）（适用于原居留证由苏黎世州移民局签发的）或
-- “境内迁移”（Kantonswechsel）（适用于原居留证由瑞士其他州的主管部门签发的），
+
+* 延期（Verlängerung）（适用于原居留证由苏黎世州移民局签发的）或
+* “境内迁移”（Kantonswechsel）（适用于原居留证由瑞士其他州的主管部门签发的），
 
 具体流程请根据自身实际情况咨询苏黎世州移民局；亦可在居留证到期前回国按正常流程办理签证后再行赴瑞。对于诸如此类的“冷门”情况，我们始终建议**主动咨询移民局，阐明自身实际情况并根据其建议/要求办理相关手续**。
 
@@ -43,6 +44,7 @@
 * 对于**博士**学生，因需要的签证类型为工作签，必须由学校代为申请（实际操作上一般由组内秘书代为申请）。
 
 #### **2.2 关于申签地点及预约方式**
+
 瑞士在中国设有一个大使馆（北京）和四个总领馆（上海、广州、成都、香港）（其中，瑞士驻成都总领馆领区的签证业务由北京的瑞士驻华大使馆代管），**关于各使领馆对应领区（签证业务受理范围）和预约链接可参考**[Switzerland and China - Where to apply for a national visa](https://www.eda.admin.ch/countries/china/en/home/visa/entry-ch/more-90-days/where-to-apply-national.html)。
 使领馆收到申请材料（具体见下文）后，会将其转交给苏黎世州移民局，由移民局负责审核签证材料并决定是否发放签证。即：最终决定权在苏黎世州移民局，使领馆仅负责转交材料并在移民局批准后通知前往贴签。苏黎世州移民局对于签证申请的相关政策法规可参见：[Einreise ohne Erwerbstätigkeit für Drittstaatsangehörige](https://www.zh.ch/de/migration-integration/einreise/einreise-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)
 
