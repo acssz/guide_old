@@ -8,7 +8,7 @@
 
 :-: ***Association of Chinese Students and Scholars in Zurich***
 
-:-: ***Assoziation der Chinesischen Studierenden und Gelehrten in Zürich***
+:-: ***Assoziation Der Chinesischen Studierenden Und Gelehrten In Zürich***
 
 ^
 
