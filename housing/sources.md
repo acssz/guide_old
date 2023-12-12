@@ -126,8 +126,8 @@ Intermezzo是一家由瑞士本地致力于利用苏黎世地区空置物业和�
 
 **申请流程：** 确定需求 → 填写申请表 → 签署合同 → 房屋交接 → 押租金
 
-【第〇步】**请进入Intermezzo2023Fall微信群并认真阅读群公告**。由于该群已达200人，请添加学联杨同学微信，以便其邀请你进群:
-![](.topwrite/assets/yangcyself.png =250) ![](.topwrite/assets/688c5f415a60ebf3a720b3ad35c3b8e.jpg =263)
+【第〇步】**请进入Intermezzo2023Fall微信群并认真阅读群公告**。由于该群已达200人，请通过下图二维码添加学联相关工作人员微信，以便其邀请你进群:
+![](../.topwrite/assets/yangcyself.png =250) ![](../.topwrite/assets/688c5f415a60ebf3a720b3ad35c3b8e.jpg =263)
 进群后请**添加Intermezzo员工Robin微信好友**（请务必**使用德语或英语与Robin联系**）。Robin将在其**朋友圈**中发布所有可供出租的房源。有时，Robin也会在群中分享可供出租的房源。
 
 【第一步】如看到中意房源，请根据Robin朋友圈评论区留下的联系方式联系Robin请求该房间的申请表，并将填妥的租房申请表格发回Robin

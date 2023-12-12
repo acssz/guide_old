@@ -117,7 +117,7 @@ Bahnhofapotheke Oerlikon, Bahnhof Oerlikon, Hofwiesenstrasse 369, 8050 Zürich
 
 #### **2.2 常见非处方药**
 
-![](.topwrite/assets/WechatIMG341.jpg)
+![](../../../.topwrite/assets/WechatIMG341.jpg)
 
 ^
 

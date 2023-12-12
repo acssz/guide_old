@@ -12,7 +12,7 @@ UZH注册的第一步，完成学费的缴纳之后你才算正式接受了UZH�
 ^
 
 然后在UZH Document一栏下就可以找到你的电子学费账单，注意别跟申请费的账单搞混了。你看到的界面可能和下图所示略有区别，毕竟我已经完成注册了
-![](.topwrite/assets/学费账单位置.png)
+![](../../.topwrite/assets/学费账单位置.png)
 
 ^
 
@@ -21,7 +21,7 @@ UZH注册的第一步，完成学费的缴纳之后你才算正式接受了UZH�
 ^
 
 获得账单之后你需要前往邮局缴费，也就是下图这个商标，应该很好找，满大街都是
-![](.topwrite/assets/Schweizerische_Post_Logo.svg.png =347)
+![](../../.topwrite/assets/Schweizerische_Post_Logo.svg.png =347)
 
 ^
 

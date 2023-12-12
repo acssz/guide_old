@@ -24,7 +24,7 @@ SBB和ZVV都有自己的手机app：
 二者均可进行查询路线/车次、购票、绑定SwissPass等操作，使用起来并无显著差别。
 
 此外，SBB还提供微信小程序服务，在微信搜索栏中搜索“瑞士铁路SBB”即可，其支持查询路线/车次，购票等操作，但不支持绑定SwissPass。此外，在此购票将直接使用微信付款，即按实时汇率扣除微信零钱或绑定银行卡中的对应数额的人民币。鉴于当前汇率较高，仅推荐临时应急使用。
-![](.topwrite/assets/0d6505cc1514a7f8931a7be1c48a9c4.jpg)
+![](../../.topwrite/assets/0d6505cc1514a7f8931a7be1c48a9c4.jpg)
 
 ^
 ### **3. 优惠套餐选择**
@@ -38,7 +38,7 @@ ZVV将苏黎世地区划分成许多“交通分区”（详见[苏黎世地区�
 - **苏黎世机场位于121区**
 - 各车站所属交通分区查询平台：[ZVV - Regionalnetz](<https://www.zvv.ch/zvv/de/fahrplan/liniennetz/regionalnetz.tab-tab.html>)
 
-![](.topwrite/assets/2021-2501-tarifzonen_00.png)
+![](../../.topwrite/assets/2021-2501-tarifzonen_00.png)
 同时，ZVV采取分区计价的原则（110区和121区均须双倍计算），**购买涵盖某区的月票/年票代表可在有效期内免费搭乘该区内所有公共交通。** 因此，请根据自身实际需要，选购[能够包含自己日常活动所涉及区域的月票或年票](https://www.zvv.ch/zvv/en/travelcards-and-tickets/travelcards/networkpass.html)。例如：
 - 大多情况下**只在110区生活及学习**，则只需选购110区（双倍计算后为2个区）的月票/年票
 - 住址在120区（对应Winterthur），但需要在110区（市区）上课，路途会经过121区和122区，则需要购买覆盖110区、121区、122区、120区（110区和121区双倍计算后为6个区）的年票/月票

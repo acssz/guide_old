@@ -21,8 +21,8 @@
 ^
 ### **4. 居留证介绍**
 一般，在瑞留学生（包含本科、硕士、博士）获得的居留证是**B类**，有效期为1年（临期换发请参见[生活篇《证照相关》章](<34证照相关.md>)），其样证见下：
-![](.topwrite/assets/image_1682631028316.png)
-![](.topwrite/assets/image_1682631039883.png)
+![](../../.topwrite/assets/image_1682631028316.png)
+![](../../.topwrite/assets/image_1682631039883.png)
 其中，居留证背面包含有“ZEMIS Nr.”和“Kant. Referenz”，这两个号码在办理诸多业务时（例如通过Kontakt Formular或电话联系移民局时，见后文）都需要提供。
 
 ^

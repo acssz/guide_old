@@ -14,12 +14,12 @@
 #### **2. 账户信息与注册证明**
 
 学校收到你的学费之后就会向你寄送纸质的注册证明（Voucher）以及学生卡，同时也会于三天之内在系统上更新你的注册状态。届时你将会在UZH Document一栏下看到学校为你发来的包括学校邮箱、用户名以及登陆密码在内的账户信息，使用该账户即可获得UZH学生的大部分服务。
-![](.topwrite/assets/账户信息位置.png)
+![](../../.topwrite/assets/账户信息位置.png)
 
 ^
 
 同时请留意实体邮箱中的注册证明，没有它你无法继续进行居留卡的申请流程。这玩意大致长这样：
-![](.topwrite/assets/voucher.jpg =387)
+![](../../.topwrite/assets/voucher.jpg =387)
 
 来源：
 <https://www.uzh.ch/en/studies/application/entry/registration.html#Extension_of_the_Residence_Permit>

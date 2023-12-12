@@ -11,7 +11,7 @@
 * 5G部署：Swisscom和Sunrise都拥有不错的部署范围，在城市中都达到了90%以上，乡村地区分别为84%和74%。而Salt的5G建设较为滞后，在城市和乡村都只有10+%部署。值得注意的是，Sunrise拥有最快的5G网速，而Swisscom由于大范围使用DSS技术，因此实际速率和4G并无太大差别；
 * 通话：Swisscom和Sunrise几乎平起平坐。在通话质量和通话连接速度上，Sunrise更好一些。
 
-![](.topwrite/assets/image_1682191526512.png)
+![](../.topwrite/assets/image_1682191526512.png)
 
 **综上，Swisscom和Sunrise的综合实力不分上下，Salt略逊于前两者**。
 
@@ -29,7 +29,7 @@
 
 在瑞士，两种电话卡均需实名才能购买。
 
-![](.topwrite/assets/image_1682191920709.png =556)
+![](../.topwrite/assets/image_1682191920709.png =556)
 
 （本表为Sunrise公司规定，其它运营商规定请自行查询）
 
@@ -73,7 +73,7 @@
 
 由Prepaid卡（包括Lebara Prepaid和其它品牌Prepaid）或其它品牌Postpaid卡转为Sunrise Lebara Postpaid（携号转卡），**现仅需0瑞或10瑞激活费（Activation Fee**）。若选择12月合同，可**免去**59瑞Activation Fee；若选择0月合同，**仅需**10瑞Activation Fee即可实现转卡。**转卡后，可享受Lebara Postpaid Card各套餐的最低价**：
 
-![](.topwrite/assets/20230908价格表.png =765)
+![](../.topwrite/assets/20230908价格表.png =765)
 \**套餐价格随运营商活动有微小浮动，本表整理的价格为截至2023年9月8日的价格，实际套餐价格以激活prepaid/postpaid卡当日的价格为准*
 
 ^
@@ -88,7 +88,7 @@
 
 1\. 扫描下方微信小程序码登记预约，建议预约**落地后当日或第二天**的开卡服务：
 
-![](.topwrite/assets/image_1682192038118.png =245)
+![](../.topwrite/assets/image_1682192038118.png =245)
 
 2\. 审核通过后在预约时间前往预约地址线下开卡或转卡（由于瑞士法律规定，购买Prepaid和Postpaid须真人监督完成注册，故必须线下开卡和转卡）；
 

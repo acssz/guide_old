@@ -53,7 +53,7 @@
 
 **套餐对比**：
 
-![](.topwrite/assets/image.imageformat.lightbox.358382199.jpg)
+![](../.topwrite/assets/image.imageformat.lightbox.358382199.jpg)
 
 **各产品具体报价可在ETH相关网站查看**：
 
@@ -73,7 +73,7 @@
 
 With a new Swiss Student Health Insurance without income
 
-![](.topwrite/assets/image_1693777734285.png =454)
+![](../.topwrite/assets/image_1693777734285.png =454)
 
 ^
 
@@ -136,7 +136,7 @@ Swisscare作为苏黎世学联的长期合作伙伴，在ETH和Swisscare官网�
 
 **学联专属优惠二维码**：
 
-![](.topwrite/assets/image_1682198983574.png)
+![](../.topwrite/assets/image_1682198983574.png)
 
 **学联专属优惠链接**：
 <https://forms.swisscare.com/#/spss?group=3018>
