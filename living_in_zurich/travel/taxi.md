@@ -11,6 +11,7 @@
 叫车电话：+41 44 777 7777
 叫车app：7×7 app（即将发布）
 ![](../.topwrite/assets/7a4d85d529ed20c520f9cfe9967aeeb.jpg)
+![](../../.topwrite/assets/7a4d85d529ed20c520f9cfe9967aeeb.jpg)
 - [7×4公司](<https://www.taxi444.ch/>)
 价格：待添加
 叫车电话：+41 44 444 4444
