@@ -37,9 +37,9 @@
 
 对于居住地在苏黎世市区，且是ETH/UZH学生身份（本科/硕士/博士）的，应于抵达苏黎世州后14天内**凭预约**前往
 
-* **ETH\&UZH留学生专用人口登记办公室 \[Residents' Registration Office (Student Administrations**)]
-  ➢ [预约链接](https://www.etermin.net/unieth)
-  ➢ 地址：[Fabrikstrasse 3, 8005 Zürich](https://www.google.com/maps/dir//Fabrikstrasse+3,+8005+Z%C3%BCrich/@47.387454,8.5268538,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47900a6cb4f4cbf1:0x6156ffd78ddaabea!2m2!1d8.5294287!2d47.3874504?entry=ttu)
+* ~~**ETH\&UZH留学生专用人口登记办公室 \[Residents' Registration Office (Student Administrations**)]~~
+➢ ~~[预约链接](https://www.etermin.net/unieth)~~
+➢ ~~地址：[Fabrikstrasse 3, 8005 Zürich](https://www.google.com/maps/dir//Fabrikstrasse+3,+8005+Z%C3%BCrich/@47.387454,8.5268538,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47900a6cb4f4cbf1:0x6156ffd78ddaabea!2m2!1d8.5294287!2d47.3874504?entry=ttu)~~
 
 或
 
@@ -48,7 +48,7 @@
   ➢ 地址：Stadthausquai 17, 8001 Zürich / 市政厅
 
 进行住址申报。
-一般，学生应**优先选择前者**办理首次住址申报，此处人流量较小，**预约可用时间较多**。选择前者的，预约后应**立即填写**[表格](https://www.etermin.net/r/7105/RegistrationForm.pdf)**并发送给**<students@zuerich.ch>以加快后续处理速度。
+~~一般，学生应**优先选择前者**办理首次住址申报，此处人流量较小，**预约可用时间较多**。选择前者的，预约后应**立即填写**[表格](https://www.etermin.net/r/7105/RegistrationForm.pdf)**并发送给**<students@zuerich.ch>以加快后续处理速度。~~
 
 ##### **1.2.2 对于居住在市区的ETH/UZH学生以外人员**
 
@@ -109,6 +109,7 @@
 > [info] *后期住址有所变更，需要办理住址变更申报的，或是因离开所住市县需要办理注销的，请参考*[生活篇《“户口”相关》章](35“户口”相关.md)。
 ^
 ### **5. 关于“收/出‘注册地址’”**
+> [info] 内容待添加
 ^
 
 ### **附录：本章节中英德术语互译**
