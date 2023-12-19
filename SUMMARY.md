@@ -66,3 +66,6 @@
         * [关于学生卡（UZH）](uni/uzh/legi.md)
         * [关于选课和考试（UZH）](uni/uzh/course_enrollment_and_exams.md)
 * [五、结语 & 学联服务](end.md)
+    * [关于学联](end/about_acssz.md)
+    * [学联福利汇总](end/benefits.md)
+    * [结语](end/end.md)
