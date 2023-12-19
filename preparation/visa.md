@@ -4,14 +4,13 @@
 
 > [danger]【学联提醒】*对于“申请签证”这件可以一票决定未来人生走向的大事上，学联强烈推荐**直接且仔细阅读官方信息来源***，*包含[苏黎世州移民局](https://www.zh.ch/de/migration-integration/einreise/einreise-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)，[ETH](https://ethz.ch/en/studies/international/after-admission/immigration/visa.html)，[UZH](https://www.uzh.ch/cmsssl/en/studies/application/entry/guidelines.html)，[瑞士驻华使领馆](https://www.eda.admin.ch/countries/china/en/home/visa/entry-ch/more-90-days/documents-national.html)等。以下仅为针对它们的简单总结与梳理，我们强烈建议**直接阅读相关原文并获取信息**！*
 
-> [warning] 本章节后期考虑简要添加以下内容（如必要，部分信息将请新生提供）：
+> [warning] 本章节后期考虑简要添加以下内容：
 >
 > * 签证更改（如姓名写错，希望更改最早准许入境日期等） 的可能性及对接方
 > * 签证效力知识普及（以短句+外链形式）
 > * 移民局签发《授权信》相关（不同使领馆规定可能不同）
 > * 极端情况下直接提请移民局介入之方案的相关跟进（不同使领馆规定可能不同）
 > * 护照递交、贴签与缴费（移民局要求缴纳的CHF95.00）相关（不同使领馆规定可能不同）
-> * 所递交材料骑缝章相关（视实际情况而定）（不同使领馆规定可能不同）
 > * 补交材料相关内容扩充（不同使领馆规定可能不同）
 > * 部分项目的“受条件录取”转“无条件录取”过程中可能遇到的签证相关问题
 > * 准许最早入境日期相关
