@@ -11,7 +11,8 @@
 - 线上声明知情：[声明链接](https://www.drittmeldung.ch/ui/#/home)；声明须在租客办理住址申报前进行
 - 线下声明知情：填写并签署
   ➢ 《原租客迁出确认书》（Auszugsanzeige；苏黎世市的模板见:attachment[Auszugsanzeige Stadt Zürich.pdf]{src=".topwrite/assets/Auszugsanzeige Stadt Zürich.pdf" size="546.7 kB"}}，其他市县请参考当地政府官网）和/或
-  ➢ 《新租客迁入确认书》（Einzugsanzeige；苏黎世市的模板见:attachment[Einzugsanzeige Stadt Zürich.pdf]{src=".topwrite/assets/Einzugsanzeige Stadt Zürich.pdf" size="1.38 MB"}，其他市县请参考当地政府官网），并由租客在办理住址申报时携带
+  ➢ 《新租客迁入确认书》（Einzugsanzeige；苏黎世市的模板见:attachment[Einzugsanzeige Stadt Zürich.pdf]{src=".topwrite/assets/Einzugsanzeige Stadt Zürich.pdf" size="1.38 MB"}，其他市县请参考当地政府官网）
+并由租客在办理住址申报时携带
 
 苏黎世市对该政策的介绍见：[Drittmeldepflicht - Stadt Zürich](<https://www.stadt-zuerich.ch/prd/de/index/bevoelkerungsamt/umziehenmelden/drittmeldepflicht.html>)；瑞士其他市县的政策与此相似，具体可参考当地政府官网。
 

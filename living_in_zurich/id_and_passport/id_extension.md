@@ -71,7 +71,7 @@
 ^
 ### **7. 参考链接**
 
-* [Verlängerung des Aufenthalts B](https://www.stadt-zuerich.ch/prd/de/index/bevoelkerungsamt/umziehenmelden/internationale-kundschaft/verlaengerung_des_aufenthals_b.html) \[链接失效]
+* [Verlängerung des Aufenthalts B](https://www.stadt-zuerich.ch/prd/de/index/bevoelkerungsamt/umziehenmelden/internationale-kundschaft/verlaengerung_des_aufenthals_b.html) \[永久失效链接]
 * [Einreise ohne Erwerbstätigkeit für Drittstaatsangehörige](https://www.zh.ch/de/migration-integration/einreise/einreise-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)
 * [ETH: Visa and Residence Permit](https://ethz.ch/content/dam/ethz/main/continuing-education/Merkblaetter/Factsheet_Visum_en.pdf)
 * [ch.ch - Schweizerische Aufenthaltsbewilligungen](https://www.ch.ch/de/ausweise-und-dokumente/aufenthaltsbewilligungen/#)

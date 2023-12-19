@@ -1,6 +1,6 @@
 > [success] 本章作者：杨晨宇、赵逸飞
 
-> [warning] 【学联提醒】本章节关于公共交通优惠套餐的推荐介绍仅供参考，请结合自身实际需求权衡选择！
+> [warning] 【学联提醒】*本章节关于公共交通优惠套餐的推荐介绍仅供参考，请结合自身实际需求权衡选择！*
 
 ### **1. 苏黎世公共交通系统简介**
 苏黎世的公共交通系统主要由市郊铁路（S-Bahn）、有轨电车（Tram）和公共汽车（Bus）组成，线路图可参考[ZVV - Network Maps](<https://www.zvv.ch/zvv/en/timetable/network-maps.html>)。
@@ -62,7 +62,7 @@ ZVV将苏黎世地区划分成许多“交通分区”（详见[苏黎世地区�
 
 对于首次前来苏黎世留学的同学，在飞机落地苏黎世，通过边检并拿到行李后，首先需要考虑从机场到住址的行程，该段行程一般选择公共交通。
 苏黎世机场设有SBB营业柜台，因此如入境时间较早，可直接在机场购买[区域月票或年票](https://www.zvv.ch/zvv/en/travelcards-and-tickets/travelcards/networkpass.html)，详见下节。
-> [warning]【学联提醒】因机场位于121区，如在机场办理110区的月票/年票的，还需要额外购买一张121区的临时加区票（参见前文或[ZVV - Zone Upgrade](<https://www.zvv.ch/zvv/en/travelcards-and-tickets/tickets/zone-upgrade.html>)）才能搭乘公共交通前往110区。
+> [warning]【学联提醒】*因机场位于121区，如在机场办理110区的月票/年票的，还需要额外购买一张121区的临时加区票（参见前文或[ZVV - Zone Upgrade](<https://www.zvv.ch/zvv/en/travelcards-and-tickets/tickets/zone-upgrade.html>)）才能搭乘公共交通前往110区。*
 
 若入境时间较晚，SBB营业柜台已下班的，那么需要通过
 - SBB或ZVV的app（见前文；银行卡支付）或
@@ -70,7 +70,7 @@ ZVV将苏黎世地区划分成许多“交通分区”（详见[苏黎世地区�
 - “瑞士铁路SBB”微信小程序（微信支付）
 
 购买前往住所的单程票，具体路线（目的地附近站点、乘车路线、中转地点等）可参考SBB/ZVV和/或谷歌地图导航等。
-如抵达苏黎世后需要接机服务的，请参考[学联《接机供求贴》](<https://forum.acssz.org/d/950-2023qiu-ji-xin-sheng-jie-ji-gong-qiu-fa-bu-tie/19>)；如希望乘坐出租车或网约车前往住所的，请参考本章第四节。
+如抵达苏黎世后需要接机服务的，请参考[学联《接机供求贴》](<https://forum.acssz.org/d/1161>)；如希望乘坐出租车或网约车前往住所的，请参考本章[《出租车/网约车》](<taxi.md>)部分。
 
 ^
 ### **5. 优惠套餐和SwissPass的办理和使用**

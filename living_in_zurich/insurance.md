@@ -38,6 +38,7 @@
 ^
 
 ### **2. 国际学生的保险选择——VVG保险**
+> [danger] *本部分内容可能已经失效，请以相关保险公司/学联最新通知为准。*
 
 **是否有实惠的学生保险套餐可供选择**？
 
@@ -125,6 +126,7 @@ With a new Swiss Student Health Insurance without income
 ^
 
 ### **5**. **学联专属Swisscare折扣及福利**！
+> [danger] *本部分内容可能已经失效，请以相关保险公司/学联最新通知为准。*
 
 > <https://forum.acssz.org/d/51>
 

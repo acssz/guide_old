@@ -3,7 +3,7 @@
 ### **1. 在瑞士境内遗失的**
 【第一步】立即前往对应警局报案并获得受案回执
 - 对于**居住在苏黎世市，且居住证未被盗仅遗失的**，须前往[警局证件挂失处](<https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/standorte/weitere_dienststellen/dienststelle-ausweisverluste.html#nur_fuer_verloreneausweise>)报案
-- 对于**其他情况**，须前往证件遗失地警察局报案（参考[报警和法律援助](<../报警和法律援助.md>)章节）
+- 对于**其他情况**，须前往证件遗失地警察局报案（参考[《报警和法律援助》](<../security/reporting_to_police_and_legal_aid.md>)章节）
 
 【第二步】凭护照、护照照片、受案回执和足量资金（供缴纳制证费用）前往在瑞长居地所属的人口登记办公室补办居留证。如随后又找到居留证的，需要再次前往人口登记办公室将该证注销。具体可参考：
 - [ch.ch: My permit has been lost or stolen - what should I do?](<https://www.ch.ch/en/documents-and-register-extracts/permits-for-living-in-switzerland#my-permit-has-been-lost-or-stolen-what-should-i-do>)

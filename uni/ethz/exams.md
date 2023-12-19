@@ -1,9 +1,5 @@
 > [success] 本章作者：王尊、赵逸飞
 
-### **5. 考试注册(EN: Exam Registration, DE: Prüfung Anmelden**)&#x20;
-
-#### **考试概况**
-
 在ETH，课程的评分因课而异：
 小部分课程是所谓“学期表现”（Semester Performance）：
 

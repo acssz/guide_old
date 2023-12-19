@@ -1,6 +1,6 @@
 > [success] 本章作者：赵逸飞
 
-> [warning]【学联提醒】苏黎世市区地形崎岖，（尤其是学校附近）有大量斜坡地形。强烈建议大家实地体验后再决定是否使用自行车作为主要出行方式。如希望体验骑行乐趣但又不想过于疲惫的，可选择使用电助力自行车（e-Bike）。
+> [warning]【学联提醒】*苏黎世市区地形崎岖，（尤其是学校附近）有大量斜坡地形。强烈建议大家实地体验后再决定是否使用自行车作为主要出行方式。如希望体验骑行乐趣但又不想过于疲惫的，可选择使用电助力自行车（e-Bike）。*
 
 ### **1. [PubliBike](<https://www.publibike.ch/en/home>)共享单车服务**
 ![](../../.topwrite/assets/image_1693720449611.png)
@@ -13,7 +13,7 @@
 - 价格：请参考[Publibike - Pricing](<https://www.publibike.ch/en/subscriptions>)（其中，“B-Quick”为基础/默认套餐）
 - 学生优惠：
 ➢ ETH学生优惠：[ETH - Züri Velo by PubliBike](<https://ethz.ch/students/en/campus/transport-mobility/velo/publibike.html>)
-➢ UZH学生优惠：[PubliBike Sommeraktion an der UZH](<https://www.ib.uzh.ch/de/newsDIB/PubliBike-UZH.html>)（至2023年9月30日有效）
+➢ UZH学生优惠：~~[PubliBike Sommeraktion an der UZH](<https://www.ib.uzh.ch/de/newsDIB/PubliBike-UZH.html>)~~（至2023年9月30日有效）
 - 其他信息：请参考[Publibike - FAQ](<https://www.publibike.ch/en/faq>)
 
 ^
@@ -25,7 +25,7 @@
 - 手机app：Urban Connect
 - 价格：![](../../.topwrite/assets/1693721535090.png)
 - 取/还车：须**定点取/还车**，在主校区、洪堡校区和Oerlikon校区设有站点
-> [info] 【学联提醒】还车时可能会遇到技术BUG，此时需在app内部联系客服。
+> [info] 【学联提醒】*还车时可能会遇到技术BUG，此时需在app内部联系客服。*
 - 其他信息：请参考[ETH - Urban Connect Bikesharing](<https://ethz.ch/students/en/campus/transport-mobility/velo/urban-connect.html>)、[Urban Connect - ETH](<https://www.urban-connect.ch/eth>)
 
 ^
