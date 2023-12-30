@@ -47,5 +47,5 @@
 
 ^
 
-#### **3. 法律援助**
+### **3. 法律援助**
 作为ETH或UZH的学生，可享受学校提供的法律咨询服务，参见[VSUZH-Legal advice](<https://en.vsuzh.ch/rechtsberatung>)。此外，还可参考[ETH Rechtsweg](<https://ethz.ch/studierende/de/studium/rechtsweg.html>)获得其他相关信息。

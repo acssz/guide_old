@@ -48,7 +48,13 @@
 
 - 瑞士两大国民超市为Coop和Migros，但其价格也不算便宜。瑞士当地打折超市Denner也会比Coop、Migros便宜一些，但蔬菜肉类种类相对少一些。此外德超lidl、英超aldi也是不错的选择。
 
-- 苏黎世有几家蔬菜水果种类较多的商店，各家名称不一样，被苏村的同学们亲切地统称为土耳其超市。坐标们如下：Wehntalerstrasse 530, 8046 Zürich, 这家蔬菜比较丰富，有一般超市买不到的青菜、菠菜和空心菜等，有冷冻海鲜，调料也齐全；Birmensdorferstrasse 143, 8003 Zürich，这家蔬菜种类一般，肉类比较丰富，牛羊肉的价格不错；Schaffhauserstrasse 459, 8052 Zürich, 蔬菜水果牛羊肉冷冻海鲜都有，365天营业且晚上十点多才关门，就营业时间而言堪称业界良心。Badenerstrasse 530, 8048 Zürich这家无肉类；Tramstrasse 10, 8050 Zürich, 这家蔬菜种类一般，羊排非常不错；Wehntalerstrasse 280，8046 Zürich， 目测最大的一家，种类齐全。
+- 苏黎世有几家蔬菜水果种类较多的商店，各家名称不一样，被苏村的同学们亲切地统称为土耳其超市。坐标们如下：
+➢ Wehntalerstrasse 530, 8046 Zürich, 这家蔬菜比较丰富，有一般超市买不到的青菜、菠菜和空心菜等，有冷冻海鲜，调料也齐全；
+➢ Birmensdorferstrasse 143, 8003 Zürich，这家蔬菜种类一般，肉类比较丰富，牛羊肉的价格不错；
+➢ Schaffhauserstrasse 459, 8052 Zürich, 蔬菜水果牛羊肉冷冻海鲜都有，365天营业且晚上十点多才关门，就营业时间而言堪称业界良心。
+➢ Badenerstrasse 530, 8048 Zürich 这家无肉类；
+➢ Tramstrasse 10, 8050 Zürich, 这家蔬菜种类一般，羊排非常不错；
+➢ Wehntalerstrasse 280，8046 Zürich， 目测最大的一家，种类齐全。
 
 - 瑞士还有专门卖新鲜肉的超市，价格比较便宜，被大家称作肉联厂。苏黎世有两家肉联厂，一家是Carmelo’s Fleishshop（Herdenstrasse 61, 8004 Zürich）。瑞士什么都贵，但是猪蹄内脏之类外国人不吃的东西会很便宜，肉联厂都有卖（关于猪蹄，Migros5CHF/kg，鸡心鸡胗之类大约一盒三四块）。还有一家是Fleisch Discount（Badenerstrasse 342, 8004 Zürich），肉种类很多，猪蹄鸡脚排骨都可以买到，并且价格优惠。
 
