@@ -1,6 +1,6 @@
 :-: [![](.topwrite/assets/20171031_ACSSZ_Logo_01.png =390)](https://acssz.org/about/intro/)
 
-### :-: **苏黎世留学 - 新生手册**
+### :-: **苏黎世留学 - 新生手册（ER）**
 
 ^
 :-: **苏黎世中国学生学者联合会**
