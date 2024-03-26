@@ -22,8 +22,4 @@
 业务介绍：[《新生租房篇+学联伙伴Intermezzo租房公司》](https://forum.acssz.org/d/386)
 ![](../.topwrite/assets/image_1682200100537.png =258)
 
-^
 
-### **5. 学联集运合作伙伴：BeegoPlus**
-业务介绍：[《新学期，学联专属BeegoPlus国际转运优惠！》](<https://forum.acssz.org/d/1101-xin-xue-qi-xue-lian-zhuan-shu-beegoplusguo-ji-zhuan-yun-you-hui>)
-![](../.topwrite/assets/image_1695577130903.png)
