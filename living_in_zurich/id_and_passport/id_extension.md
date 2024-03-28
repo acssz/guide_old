@@ -5,7 +5,7 @@
 ### **1.  办理居留证延期的时间**
 
 一般，在瑞留学生获得的居留证**有效期为1年**，临期时需要办理延期以确保能够继续在瑞士居留。根据相关法律法规，办理延期的时间应**不早于居留证到期前三个月，并不晚于居留证到期前两周**。如因故有特殊需求希望提前/延后办理的，请咨询住址所属人口登记办公室的工作人员。
-居留证到期前两个月左右，政府有关部门会向你寄送一封“延期信函”（Verfallsanzeige Ausweis B，此处的B对应居留证类型，范例见:attachment[Verfallsanzeige B.pdf]{src=".topwrite/assets/Verfallsanzeige B.pdf" size="1.71 MB"}；一般是一张可填写/需要填写的表格），要求你办理延期。
+居留证到期前两个月左右，政府有关部门会向你寄送一封“延期信函”（Verfallsanzeige Ausweis B，此处的B对应居留证类型，范例见:attachment[Verfallsanzeige B.pdf]{src="../../.topwrite/assets/Verfallsanzeige B.pdf" size="1.71 MB"}；一般是一张可填写/需要填写的表格），要求你办理延期。
 如你希望提前办理，亦可前往人口登记办公室要求工作人员**现场签发“延期信函**”，唯须注意前文所述的办理时间限制。
 
 ^
