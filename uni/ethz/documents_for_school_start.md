@@ -1,6 +1,6 @@
 > [success] 本章作者：王尊、杨锦涛
 
-> [danger] *本章节内容可能已经失效，请以校方最新通知为准
+> [danger] \*本章节内容可能已经失效，请以校方最新通知为准
 
 > [warning] *本节内容仅适用于ETH的相关流程，UZH不会提前发新生材料*！
 
@@ -17,7 +17,6 @@
 ^
 
 因此，如果要提前寄存材料，一定要找靠谱学姐学长，**保证你们的联络足够紧密，经常联系更新进展**。
-
 
 > [warning] 本章节部分内容可能需要更新
 
@@ -39,3 +38,5 @@
 >   <https://ethz.ch/students/en/studies/administrative.html>
 > * 关于学期、课程注册：
 >   <https://ethz.ch/students/en/continuing-education/enrolment.html>
+
+^
