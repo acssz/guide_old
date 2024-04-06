@@ -1,14 +1,12 @@
 :-: ![](.topwrite/assets/20171031_ACSSZ_Logo_01.png =390](https://acssz.org/about/intro/)
 
-### :-: **苏黎世留学 - 新生手册**
+#### :-: **苏黎世留学 - 新生手册**
 
 ^
-
 :-: **苏黎世中国学生学者联合会**
 
 :-: ***Association of Chinese Students and Scholars in Zurich***
-
-:-: ***Assoziation Der Chinesischen Studierenden Und Gelehrten In Zürich***
+***Verein der Chinesischen Studierenden und Gelehrten In Zürich***
 
 ^
 
