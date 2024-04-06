@@ -12,8 +12,8 @@
 此外，根据瑞士相关法律法规，当有人员住址发生变更时，其原住址和现住址房东需要声明其对于该租客的迁出和迁入知情，此为所谓的“第三方申报义务”（Drittmeldepflicht）。涉及转租的，可以由二房东或原房东声明知情。房东声明知情的方式包含：
 - 线上声明知情：[声明链接](https://www.drittmeldung.ch/ui/#/home)；声明须在租客办理住址申报前进行
 - 线下声明知情：填写并签署
-  ➢ 《原租客迁出确认书》（Auszugsanzeige；苏黎世市的模板见:attachment[Auszugsanzeige Stadt Zürich.pdf]{src=".topwrite/assets/Auszugsanzeige Stadt Zürich.pdf" size="546.7 kB"}}，其他市县请参考当地政府官网）和/或
-  ➢ 《新租客迁入确认书》（Einzugsanzeige；苏黎世市的模板见:attachment[Einzugsanzeige Stadt Zürich.pdf]{src=".topwrite/assets/Einzugsanzeige Stadt Zürich.pdf" size="1.38 MB"}，其他市县请参考当地政府官网）
+  ➢ 《原租客迁出确认书》（Auszugsanzeige；苏黎世市的模板见[Auszugsanzeige_Muster](<https://www.stadt-zuerich.ch/content/dam/stzh/prd/Deutsch/Bevoelkerungsamt/onlineschalter/webeinauszugsanzeigen/Auszugsanzeige%20Stadt%20Z%C3%BCrich.pdf>)，其他市县请参考当地政府官网）和/或
+  ➢ 《新租客迁入确认书》（Einzugsanzeige；苏黎世市的模板见[Einzugsanzeige_Muster](<https://www.stadt-zuerich.ch/content/dam/stzh/prd/Deutsch/Bevoelkerungsamt/onlineschalter/webeinauszugsanzeigen/Einzugsanzeige%20Stadt%20Z%C3%BCrich.pdf>)，其他市县请参考当地政府官网）
 并由租客在办理住址申报时携带
 
 苏黎世市对该政策的介绍见：[Drittmeldepflicht - Stadt Zürich](<https://www.stadt-zuerich.ch/prd/de/index/bevoelkerungsamt/umziehenmelden/drittmeldepflicht.html>)；瑞士其他市县的政策与此相似，具体可参考当地政府官网。
