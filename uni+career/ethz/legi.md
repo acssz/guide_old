@@ -12,3 +12,5 @@
 >   <https://ethz.ch/content/dam/ethz/main/continuing-education/Merkblaetter/ETH%20Karte%20Info.pdf>
 > * Validation Terminal地点:
 >   <https://ethz.ch/staffnet/en/service/eth-card/validity-period-validation/validation-terminal-locations.html>
+
+^

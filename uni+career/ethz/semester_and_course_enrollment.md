@@ -70,3 +70,5 @@
 >
 > > 关于课程种类：
 > > <https://ethz.ch/content/dam/ethz/main/eth-zurich/education/lehrentwicklung/files_EN/Liste_LehrveranstaltungstypenEN.pdf>
+
+^
