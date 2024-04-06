@@ -65,7 +65,7 @@
         * [关于开学材料（UZH）](uni+career/uzh/documents_for_school_start.md)
         * [关于学生卡（UZH）](uni+career/uzh/legi.md)
         * [关于选课和考试（UZH）](uni+career/uzh/course_enrollment_and_exams.md)
-    * [创业与就业](career_in_swizterland.md)
+    * [创业与就业](career.md)
         * [创业](entrepreneurship.md)
         * [就业](job.md)
 * [五、结语 & 学联服务](end.md)
