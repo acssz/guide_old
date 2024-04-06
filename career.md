@@ -1,3 +1,9 @@
 ::catalog
 
 ^
+
+> [success] 创业就业相关内容在逐渐完善中，如想分享相关资源或参与编辑，欢迎邮件联系dep.pr\@acssz.org，万分感谢
+>
+> 2024 ACSSZ Public Relations
+
+^
