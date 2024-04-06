@@ -2,8 +2,9 @@
 
 > [success] 特别鸣谢：于之赫、张家萌
 
-> [info] *本章节内容最近更新于2023年9月1日。*
-> ETH和UZH两所大学对于首次办理”户口“均有十分详细的指导，参见：
+> [info] 本章节最近校对于：2024年04月06日
+
+> [info] ETH和UZH两所大学对于首次办理”户口“均有十分详细的指导，参见：
 >
 > * ETH：[Applying for a residence permit](https://ethz.ch/en/studies/international/after-arrival/residence-permit/applying.html)
 > * UZH：[Registering in Switzerland](https://www.uzh.ch/cmsssl/en/studies/application/entry/registration.html)
@@ -79,7 +80,8 @@
 * 护照原件
 * 租房合同原件（转租时为转租合同）
 * 学期注册确认（Erweiterte Immatrikulationsbestätigung / Enrolment confirmation）
-  *对于在ETH\&UZH留学生专用人口登记办公室办理首次申报的UZH学生，如尚未获得注册确认的，亦可使用UZH发放的Attestation代替*。
+ETH学生：请通过myStudies平台下载
+UZH学生：由校方提供，暂时无法获得的亦可使用UZH发放的Attestation代替*。
 * 由房东签署的《新租客迁入确认书》（Einzugsanzeige）（具体见下文）
 * 182.00瑞郎 （支持现金但**不支持找零**；支持VISA/MASTER/银联刷卡）
   ➢ 申报确认函：40瑞郎
