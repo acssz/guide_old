@@ -52,7 +52,7 @@
         * [报警和法律援助](living_in_zurich/security/reporting_to_police_and_legal_aid.md)
         * [防诈反诈](living_in_zurich/security/anti-frauds.md)
         * [Lost & Found](living_in_zurich/security/lost_and_found.md)
-* [四、学校、学业和职业发展相关](uni+career.md)
+* [四、学校学业和职业发展](uni+career.md)
     * [ETH相关](uni+career/ethz.md)
         * [关于开学材料（ETH）](uni+career/ethz/documents_for_school_start.md)
         * [关于学生卡（ETH）](uni+career/ethz/legi.md)
