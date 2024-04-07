@@ -6,7 +6,7 @@
 :-: **苏黎世中国学生学者联合会**
 
 :-: ***Association of Chinese Students and Scholars in Zurich***
-***Verein der Chinesischen Studierenden und Gelehrten In Zürich***
+***Verein der Chinesischen Studente und Gelehrten In Zürich***
 
 ^
 
