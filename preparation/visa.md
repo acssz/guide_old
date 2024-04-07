@@ -1,6 +1,6 @@
 > [success] 本章作者：杜超瑜、杨锦涛、赵逸飞
 
-> [info] 本章节最近更新于：2023年XX月XX日
+> [info] 本章节最近校对于：2024年04月XX日
 
 > [danger]【学联提醒】*对于“申请签证”这件可以一票决定未来人生走向的大事上，学联强烈推荐**直接且仔细阅读官方信息来源***，*包含[苏黎世州移民局](https://www.zh.ch/de/migration-integration/einreise/einreise-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)，[ETH](https://ethz.ch/en/studies/international/after-admission/immigration/visa.html)，[UZH](https://www.uzh.ch/cmsssl/en/studies/application/entry/guidelines.html)，[瑞士驻华使领馆](https://www.eda.admin.ch/countries/china/en/home/visa/entry-ch/more-90-days/documents-national.html)等。以下仅为针对它们的简单总结与梳理，我们强烈建议**直接阅读相关原文并获取信息**！*
 
