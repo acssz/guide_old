@@ -1,5 +1,7 @@
 > [success] 本章作者：赵逸飞
 
+> [info] 本章节最近校对于：2024年04月07日
+
 > [warning]【学联提醒】*苏黎世市区地形崎岖，（尤其是学校附近）有大量斜坡地形。强烈建议大家实地体验后再决定是否使用自行车作为主要出行方式。如希望体验骑行乐趣但又不想过于疲惫的，可选择使用电助力自行车（e-Bike）。*
 
 ### **1. [PubliBike](<https://www.publibike.ch/en/home>)共享单车服务**
@@ -13,7 +15,6 @@
 - 价格：请参考[Publibike - Pricing](<https://www.publibike.ch/en/subscriptions>)（其中，“B-Quick”为基础/默认套餐）
 - 学生优惠：
 ➢ ETH学生优惠：[ETH - Züri Velo by PubliBike](<https://ethz.ch/students/en/campus/transport-mobility/velo/publibike.html>)
-➢ UZH学生优惠：~~[PubliBike Sommeraktion an der UZH](<https://www.ib.uzh.ch/de/newsDIB/PubliBike-UZH.html>)~~（至2023年9月30日有效）
 - 其他信息：请参考[Publibike - FAQ](<https://www.publibike.ch/en/faq>)
 
 ^
@@ -29,7 +30,12 @@
 - 其他信息：请参考[ETH - Urban Connect Bikesharing](<https://ethz.ch/students/en/campus/transport-mobility/velo/urban-connect.html>)、[Urban Connect - ETH](<https://www.urban-connect.ch/eth>)
 
 ^
-### **3. 共享电动滑板车（e-Scooter）服务**
+### **3. Go Green City共享电动自行车服务**
+![](../../.topwrite/assets/16db85772308dee0e7a07c85077f76f.jpg)
+请参考[Go Green City官网](<https://go-greencity.ch/de/>)获取更多信息。
+^
+
+### **4. 共享电动滑板车（e-Scooter）服务**
 苏黎世有数家不同企业提供共享电动滑板车（e-Scooter）服务，其使用方法和操作流程均与国内共享单车类似（具体请参考企业官网/app，见下），**无须定点取/还车**。苏黎世主要的共享电动滑板车包含：
 - [LIME](<https://www.li.me/en-ch/>)（亦提供少量共享单车，但规模较小，暂不列入前文）
 ![](../../.topwrite/assets/image_1693730454346.png)
