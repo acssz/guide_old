@@ -1,0 +1,13 @@
+{
+    "title": "苏黎世留学 - 新生手册",
+    "plugins": [
+        "baidu-tongji",
+        "assistant",
+        "components"
+    ],
+    "pluginsConfig": {
+        "assistant": {
+            "siteId": "w9aAm1av"
+        }
+    }
+}
