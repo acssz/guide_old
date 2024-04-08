@@ -25,7 +25,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | [ETH\&UZH 联办租房平台](https://wohnen.ethz.ch/index.php?act=searchoffer)&#xA; *具体介绍和租房步骤见后文*                                                                                                                                                                                      | 平台自有房源：&#xA;- 回复速度快&#xA;- 申请成功率较高&#xA;- 房租相对便宜&#xA;- 室友都是学生&#xA;- 无需收入证明&#xA;- 可在国内远程找房&#xA;&#xA;第三方房源：&#xA;- 选择丰富 | 平台自有房源：&#xA;- 竞争激烈，新房源上架后很快抢空&#xA;- 每人只有一次分配房源的机会，选择余地小&#xA;&#xA;第三方房源&#xA;- 可能是骗子&#xA;- 房东可能只会德语&#xA;- 获得回复概率较低 |
 | **学联合作伙伴**[Intermezzo](https://www.intermezzo.ch/)&#xA;*具体介绍和租房步骤见后文*                                                                                                                                                                                                        | - 价格相对优惠&#xA;- 沟通更加方便&#xA;- 有基本家具&#xA;- 可在国内远程找房                                                                   | - 竞争激烈，手慢即无（尤其7-11月高峰期）&#xA;                                                                      |
-| [Student Village](https://studentvillage.ch/en/) &&#xA;[Living Science](https://www.livingscience.ch/wohnen-studieren-zuerich/?L=0)&#xA; *ETH的学生宿舍，除官网（成功率极低）外一般是通过*[Facebook群组](https://www.facebook.com/groups/svzurich/)*和微信群（群名”SV的宝宝们“，常年满员或在满员边缘徘徊，可联系在群中的朋友择时将你拉入）找房* | - 室友都是学生&#xA;- 无需收入证明&#xA;- 有基本家具&#xA;- 在ETH Hönggerberg校区&#xA;- 限ETH学生（本硕博）申请                                     | - 竞争激烈&#xA;- 多人共享公共区域                                                                             |
+| [Student Village（简称SV）](https://studentvillage.ch/en/) &&#xA;[Living Science](https://www.livingscience.ch/wohnen-studieren-zuerich/?L=0)&#xA; *ETH的学生宿舍，除官网（成功率极低）外一般是通过[Facebook群组](https://www.facebook.com/groups/svzurich/)和[Whatsapp群组](<https://chat.whatsapp.com/JfFYoxy0zed4VxJ4oiqPL8>)找房* | - 室友都是学生&#xA;- 无需收入证明&#xA;- 有基本家具&#xA;- 在ETH Hönggerberg校区&#xA;- 限ETH的本科、硕士学生申请（硕士后期升博的可以续租，但博士新生不得入住）                                     | - 竞争激烈&#xA;- 多人共享公共区域                                                                             |
 | [WOKO](https://www.woko.ch)&#xA;*苏黎世的学生租房平台*，*若博士在28岁前入住，之后可以继续续住。博士年收入超过26400CHF，每月要多交100CHF*                                                                                                                                                                               | - 可靠&#xA;- 价格优惠&#xA;- 无需收入证明&#xA;- 有基本家具                                                                           | - 竞争激烈&#xA;- 大多需提早起租&#xA;- 多人共享公共区域                                                               |
 | [JUWO](https://www.juwo.ch)&#xA;*青年住房组织，适合年龄在16-28岁，年收入小于30000瑞，处于学习或者实习阶段的青年；看房次数越多，拿到房子的可能性就越大*                                                                                                                                                                            | - 价格优惠&#xA;- 无需收入证明&#xA;- 可靠&#xA;- 适合28岁以下的同学                                                                      | - 竞争激烈&#xA;- 等待时间长&#xA;- 没有家具                                                                     |
 | [WFSS](https://www.wfss.ch/de/)&#xA;*公益性质的学生租房组织，主要为学生提供在校外的廉价住房选择*                                                                                                                                                                                                          | - 价格优惠&#xA;- 无需收入证明&#xA;- 可靠&#xA;- 有基本家具，可以拎包入住                                                                    | - 竞争激烈&#xA;- 房子相对有些老旧（但质量下限依然不低，并不是“老破小”）&#xA;- 博士年收入超过26400CHF的，每月要多交100CHF                      |
@@ -34,21 +34,21 @@
 
 > [info] *以下渠道均为**学生租房渠道**，且一般仅适用于在苏黎世找房的同学，但在国内的同学亦可尝试进行在线找房*。
 
-| 渠道/简介 | 优点 | 缺点 |
-| ----- | -- | -- |
-[Students](http://www.students.ch/wohnen/list) |  |  |
+- [Students](http://www.students.ch/wohnen/list)
 
 > [info] *以下渠道均为**社会租房渠道**，且一般仅适用于在苏黎世找房的同学，但在国内的同学亦可尝试进行在线找房*。
 
-| 渠道/简介                                                                                                   | 优点 | 缺点 |
-| ------------------------------------------------------------------------------------------------------- | -- | -- |
-| [WG Zimmer ](https://www.wgzimmer.ch/home.html)&#xA;（WG是德语Wohngemeinschaft的缩写，英语译为shared apartment，中文译为合用公寓） |    |    |
-| [Flatfox](https://flatfox.ch/c/en/)&#xA;（可能比较偏好可以线下看房的客户，并且用德语申请的话也许回复率较高）                                   |    |    |
-| [Homegate](https://www.homegate.ch/en)                                                                  |    |    |
-| [comparis](https://en.comparis.ch/immobilien/search)                                                    |    |    |
-| [RON ORP](http://www.ronorp.net/zuerich/dach-ueber-dem-kopf)                                            |    |    |
-| [WG-Gesucht](https://www.wg-gesucht.de/)                                                                |    |    |
-| [Room Estate](https://roomestate.com/)&#xA;（房源大多可以查看在住人信息，并且可以在线预定租赁，但是真实体验未知）                               |    |    |
+- [WG Zimmer ](https://www.wgzimmer.ch/home.html)
+*WG是德语Wohngemeinschaft的缩写，英语译为Shared Apartment，中文译为合用公寓*
+- [Flatfox](https://flatfox.ch/c/en/)
+*可能比较偏好可以线下看房的客户，并且用德语申请的话也许回复率较高*
+- [Homegate](https://www.homegate.ch/en)
+*可能比较偏好可以线下看房的客户，并且用德语申请的话也许回复率较高*
+- [comparis](https://en.comparis.ch/immobilien/search) 
+- [RON ORP](http://www.ronorp.net/zuerich/dach-ueber-dem-kopf)
+- [WG-Gesucht](https://www.wg-gesucht.de/)
+- [Room Estate](https://roomestate.com/)
+*房源大多可以查看在住人信息，并且可以在线预定租赁，但是真实体验未知*
 
 ^
 
@@ -77,7 +77,7 @@
   ➢ 房源类别为”shared apartment“
   ➢ 可用时间为自9月1日（秋季学期）或2月1日（春季学期，此处有待核实）起
   ➢ 联系方式为<housing@ethz.ch>
-  ➢ 28岁以下人员申请可能受限，见下文
+  ➢ 28岁以上人员申请可能受限，见下文
 
 【第三步】
 对于前者（私人房东上传的房源），其租房具体流程与社会渠道无异，具体以房东要求为准（见后文）；
@@ -130,7 +130,7 @@ Intermezzo是一家由瑞士本地致力于利用苏黎世地区空置物业和�
 
 【第〇步】**请进入Intermezzo微信群并认真阅读群公告**。
 由于该群已达200人，请通过下图二维码添加学联相关工作人员微信，以便其邀请你进群:
-![](../.topwrite/assets/yangcyself.png =250) ![](../.topwrite/assets/688c5f415a60ebf3a720b3ad35c3b8e.jpg =263)
+![](../.topwrite/assets/de030b34ca31de2f05a75245cd3fb32.png =250)![](../.topwrite/assets/688c5f415a60ebf3a720b3ad35c3b8e.jpg =263)
 进群后请**添加Intermezzo员工Robin微信好友**（请务必**使用德语或英语与Robin联系**）。Robin将在其**朋友圈**中发布所有可供出租的房源。
 
 【第一步】如看到中意房源，请根据Robin朋友圈评论区留下的联系方式联系Robin请求该房间的申请表，并将填妥的租房申请表格发回Robin

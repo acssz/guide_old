@@ -1,10 +1,10 @@
-> [success] 本章作者：赵逸飞
+> [success] 本章原作者：赵逸飞
 
-> [info] 本章节最近更新于：2023年12月19日
+> [info] 本章节最近校对于：2024年04月06日
 
 > [danger] 【声明】*本章节综合当前航班执行情况、现有航班计划、当前放票情况、航司合作情况、行李直挂情况、行程总时长、航司“靠谱”程度等编写；所有内容仅供参考，如按此购票遇到诸如航班延误/取消、行李延误等情况，我们恕不负有任何责任，敬请谅解。*
 
-> [info] 【学联提醒】*如想寻找同一航班伙伴，可前往 ~~[学联论坛2023航班“找伴儿”贴](https://forum.acssz.org/d/1005)~~ [永久失效链接]。如需要接机服务，可在[学联论坛2024接机供求贴](<https://forum.acssz.org/d/1161>)内发布需求，或直接联系帖子中提供接机的同学。*
+> [info] 【学联提醒】*如想寻找同一航班伙伴，可前往[学联论坛2024航班“找伴儿”贴](<https://forum.acssz.org/d/1402>)。如需要接机服务，可在[学联论坛2024接机供求贴](<https://forum.acssz.org/d/1403>)内发布需求，或直接联系帖子中提供接机的同学。*
 
 ### **1. 自中国内地直航赴瑞**
 
@@ -20,8 +20,8 @@
 
 目前，中国内地→瑞士直航航班包含：
 
-* LX189航班（上海浦东PVG-苏黎世ZRH），[瑞士国际航空](https://www.swiss.com/cn/zh/homepage)承运，每周一、二、三、四、六、日执行，起降时刻11:05-18:25，实际飞行时长约14小时，执飞机型为A343
-* CA861航班（北京首都PEK-日内瓦GVA），[中国国际航空](https://www.airchina.com.cn/)承运，每周一、四、五、六 执行，起降时刻02:25-06:45，实际飞行时长约11小时，执飞机型为A332
+* LX189航班（上海浦东PVG-苏黎世ZRH），[瑞士国际航空](https://www.swiss.com/cn/zh/homepage)承运，每天执行，起降时刻10:05-18:15，实际飞行时长约14小时，执飞机型为A343
+* CA861航班（北京首都PEK-日内瓦GVA），[中国国际航空](https://www.airchina.com.cn/)承运，每周一、三、四、五、六执行，起降时刻02:25-07:15，实际飞行时长约11小时，执飞机型为A333
 
 目前，中国内地→瑞士的航线航班没有增加的计划。如有增班的信息，我们会第一时间通告。
 
@@ -37,15 +37,14 @@
 
 缺点：
 
-* 国泰航空有较为普遍的歧视现象
 * 受地理因素影响，飞行时间较长
 * 单程票价格相对较高
 * 免费行李额度较中东航司少
 
 目前，中国香港→瑞士直航航班包含：
 
-* CX383航班，[国泰航空](https://www.cathaypacific.com/cx/sc_CN.html)承运，每周三、五、日执行，起降时刻00:40-07:30，实际飞行时长约13.5h，执飞机型为B77W
-* LX139航班，[瑞士国际航空](https://www.swiss.com/cn/zh/homepage)承运，每天执行，起降时刻22:50-06:10+1，实际飞行时长约14h，执飞机型为A343
+* CX383航班，[国泰航空](https://www.cathaypacific.com/cx/sc_CN.html)承运，每周一、三、五、日执行，起降时刻00:05-07:20，实际飞行时长约13h，执飞机型为A35K
+* LX139航班，[瑞士国际航空](https://www.swiss.com/cn/zh/homepage)承运，每天执行，起降时刻23:25-06:25+1，实际飞行时长约13h，执飞机型为B77W
 
 亦可以将本项与下面的3项结合起来安排路线，选择经香港前往其他城市，再转机赴瑞，如“西安-香港-法兰克福-苏黎世”“成都-香港-多哈-苏黎世”等，只是行程时间相应较长。
 
@@ -61,17 +60,15 @@
 缺点：
 
 * 免费行李额度较中东航司少
-* 法兰克福FRA、慕尼黑MUC、巴黎戴高乐CDG、阿姆斯特丹史基浦AMS等机场近期经常出现地勤人员罢工现象，可能导致中转所需时间变长，航班延误/取消等（经北欧城市转机的一般不会遇到这类问题）
+* 法兰克福FRA、慕尼黑MUC、巴黎戴高乐CDG、阿姆斯特丹史基浦AMS等机场近期经常出现地勤人员罢工现象，可能导致中转所需时间变长，航班延误/取消等
 
 其他特点：
 
 * 价格较为参差，与日期、承运航司、航线等关系很大
 * 在中转地需要过关，可能需要二次安检；抵达瑞士后不再需要过关
-* 客舱硬件，服务质量较为参差，与承运航司关系很大
 * 受俄乌局势影响，对于同一航线上的中→欧航班，外航航班比国内航司航班时间长
 
-常见路线：
-（仅考虑可以联程且行李可直挂的路线）
+常见路线（仅考虑可以联程且行李可直挂的路线）：
 
 * 北京首都PEK/上海浦东PVG/深圳宝安SZX/成都天府TFU-法兰克福FRA-苏黎世ZRH
   承运航司：[中国国际航空CA](https://www.airchina.com.cn/)、[汉莎航空LH](https://www.lufthansa.com/cn/zh/homepage)、[瑞士国际航空LX](https://www.swiss.com/cn/zh/homepage)等
@@ -80,7 +77,7 @@
 * 北京首都PEK/上海浦东PVG-维也纳VIE-苏黎世ZRH
   承运航司：[中国国际航空CA](https://www.airchina.com.cn/)、[奥地利航空OS](https://www.austrian.com/lhg/cn/zh)、[瑞士国际航空LX](https://www.swiss.com/cn/zh/homepage)等
 * 北京首都PEK/上海浦东PVG/广州白云CAN-巴黎戴高乐CDG-苏黎世ZRH
-  承运航司：[中国南方航空CZ](https://www.csair.com/cn/)、[法国航空AF](https://wwws.airfrance.com.cn/)等
+  承运航司：[中国南方航空CZ](https://www.csair.com/cn/)、[中国东方航空MU](<https://www.ceair.com/>)、[法国航空AF](https://wwws.airfrance.com.cn/)等
 * 北京首都PEK/北京大兴PKX/上海浦东PVG/广州白云CAN/厦门高崎XMN-阿姆斯特丹史基浦AMS-苏黎世ZRH
   承运航司：[中国南方航空CZ](https://www.csair.com/cn/)、[中国东方航空MU](https://www.ceair.com/)、[厦门航空MF](https://www.xiamenair.com/zh-cn/)、[荷兰皇家航空KL](https://www.klm.com.cn/)等
 * 上海浦东PVG/郑州新郑CGO-赫尔辛基万塔HEL-苏黎世ZRH
@@ -88,7 +85,7 @@
 * 北京首都PEK/上海浦东PVG-哥本哈根CPH-苏黎世ZRH
   承运航司：[中国国际航空CA](https://www.airchina.com.cn/)、[北欧航空SK](https://www.flysas.com/cn-zh/)、[瑞士国际航空LX](https://www.swiss.com/cn/zh/homepage)等
 
-此外，还有搭乘中国国际航空CA/波兰航空LO的航班经华沙肖邦WAW转机的选择可以考虑，但据反馈，该路线行李丢失概率可能较大，且航司在航班取消时操作退款速度极慢。
+此外，还有搭乘中国国际航空CA/波兰航空LO的航班经华沙肖邦WAW转机的选择，但据反馈，波兰航空的该航班执行不稳定，且该路线行李丢失概率可能较大，且航司在航班取消时操作退款速度极慢。
 
 ^
 
@@ -114,10 +111,10 @@
 
 * 北京首都PEK/上海浦东PVG/广州白云CAN-迪拜DXB-苏黎世ZRH
   承运航司：[阿联酋航空EK](https://www.emirates.com/cn/chinese/)
-* 北京大兴PKX/上海浦东PVG/广州白云CAN-阿布扎比AUH-苏黎世ZRH
+* 北京大兴PKX/上海浦东PVG-阿布扎比AUH-苏黎世ZRH
   承运航司：[阿提哈德航空EY](https://www.etihad.com/zh/)
 * 北京大兴PKX/上海浦东PVG/广州白云CAN/杭州萧山HGH/厦门高崎XMN-多哈哈马德DOH-苏黎世ZRH
-  承运航司：[卡塔尔航空QR](https://www.qatarairways.com/zh-cn/homepage.html)、[厦门航空MF](https://www.xiamenair.com/zh-cn/)
+  承运航司：[卡塔尔航空QR](https://www.qatarairways.com/zh-cn/homepage.html)、[中国南方航空CZ](https://www.csair.com/cn/)、[厦门航空MF](https://www.xiamenair.com/zh-cn/)
 
 ^
 
@@ -160,6 +157,6 @@
 ### **7. 参考**
 * 国际航线航班信息：[知乎《国际航班汇总》专栏](https://www.zhihu.com/column/c_1286552806351065088)（由本章节作者，即[知乎@ZBAA-APP](https://www.zhihu.com/people/zbaa-app/)汇总整理，欢迎关注）
 * 航班不正常保障及旅客权益：[欧盟对EC261的介绍（英文版）](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm)、[航空博主SiriusDEUU对EC261的介绍](https://mp.weixin.qq.com/s/17NE6r18HiANbfHoRcEjPA)
-* 内地往来香港航班信息、港澳台国际航班信息：[知乎《港澳台地区航班及相关信息》专栏](https://www.zhihu.com/column/c_1593393411708715010)
 
 及文中其他外链。
+^

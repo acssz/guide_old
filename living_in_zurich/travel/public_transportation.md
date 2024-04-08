@@ -1,10 +1,12 @@
 > [success] 本章作者：杨晨宇、赵逸飞
 
+> [info] 本章节最近校对于：2024年04月06日
+
 > [warning] 【学联提醒】*本章节关于公共交通优惠套餐的推荐介绍仅供参考，请结合自身实际需求权衡选择！*
 
 ### **1. 苏黎世公共交通系统简介**
 苏黎世的公共交通系统主要由市郊铁路（S-Bahn）、有轨电车（Tram）和公共汽车（Bus）组成，线路图可参考[ZVV - Network Maps](<https://www.zvv.ch/zvv/en/timetable/network-maps.html>)。
-作为常驻苏黎世的留学生，使用公共交通系统进行的日常出行与以下名词是密不可分的：
+关于苏黎世的公共交通系统，有以下关键术语：
 * [苏黎世公共交通运输委员会 \[Zürcher Verkehrsverbund (ZVV)\] ](https://www.zvv.ch/zvv/en/home.html)，
 由苏黎世区域所有公共交通服务提供者组成的委员会，整合铁路、有轨电车、公共汽车、轮船等所有公共交通资源。更多信息可参考：[Fun facts about ZVV](https://secrets.zvv.ch/)
 * [瑞士联邦铁路集团 \[Schweizerische Bundesbahnen (SBB)\]](https://www.sbb.ch/en)
@@ -18,7 +20,7 @@
 ### **2. 相关手机app**
 
 SBB和ZVV都有自己的手机app：
-* [SBB Mobile app](https://www.sbb.ch/de/fahrplan/mobile-fahrplaene/sbb-mobile.html)
+* [SBB Mobile app](<https://www.sbb.ch/en/travel-information/apps/sbb-mobile.html>)
 * [ZVV app](https://www.zvv.ch/zvv/de/service/apps/zvv-app.html)
 
 二者均可进行查询路线/车次、购票、绑定SwissPass等操作，使用起来并无显著差别。
@@ -70,7 +72,7 @@ ZVV将苏黎世地区划分成许多“交通分区”（详见[苏黎世地区�
 - “瑞士铁路SBB”微信小程序（微信支付）
 
 购买前往住所的单程票，具体路线（目的地附近站点、乘车路线、中转地点等）可参考SBB/ZVV和/或谷歌地图导航等。
-如抵达苏黎世后需要接机服务的，请参考[学联《接机供求贴》](<https://forum.acssz.org/d/1161>)；如希望乘坐出租车或网约车前往住所的，请参考本章[《出租车/网约车》](<taxi.md>)部分。
+如抵达苏黎世后需要接机服务的，请参考[学联《接机供求贴》](<https://forum.acssz.org/d/1403>)；如希望乘坐出租车或网约车前往住所的，请参考本章[出租车/网约车](<taxi.md>)部分。
 
 ^
 ### **5. 优惠套餐和SwissPass的办理和使用**

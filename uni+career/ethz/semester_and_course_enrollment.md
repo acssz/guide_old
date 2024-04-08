@@ -1,12 +1,12 @@
 > [success] 本章作者：王尊、赵逸飞
 
-### **4. 学期注册（semester enrollment）及课程注册（course enrollment**）&#x20;
+### **1. 学期注册（semester enrollment）及课程注册（course enrollment**）&#x20;
 
 ***不同的专业及不同学位会有各自的迎新会及Info Session，会具体解释具体注册要求及学业要求***，*相关时间地点等信息应该已经或将要发送给新生了。如校方通知与下文有所出入，以校方通知为准*。
 
 ^
 
-#### **4.1 硕博选课介绍**
+#### **1.1 硕博选课介绍**
 
 每个学生都必须在每个新学期开始前进行学期注册，具体开放时间会由Kanzlei发邮件通知；
 **请注意，注册之后马上就可以注册课程了**。在硕士阶段，绝大部分专业都有较大的自主选择空间；大部分课程的容量都很宽裕，但有些很热门的课程（比如春季学期的IML — Introduction to Machine Learning）是非常抢手的，所以需要尽快注册。推荐在注册日期开始前先在[VVZ](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/sucheLehrangebotPre.do?lang=enVVZ)（德语全称Vorlesungsverzeichnis，英文为Course Catalogue）规划一下自己想要上哪些课。也请注意心仪课程的评分标准，是考试还是学期表现；具体见下文。
@@ -19,7 +19,7 @@
 
 ^
 
-#### **4.2 本科选课介绍**
+#### **1.2 本科选课介绍**
 
 *为了帮助大家顺利开学，ETH提供了题为“Studienstart für Bachelor-Studierende”的*[信息页](https://ethz.ch/de/studium/bachelor/studienstart.html)，*强烈建议大家阅读参考。此外，校方在开学前会为本科新生组织*[“Prestudy Event”](https://ethz.ch/de/studium/bachelor/studienstart/prestudy-events.html)*活动，其中会有老师详细介绍有关你的专业的信息（学术、行政、组织等均会涉及），也会有（与你同系同学一起的）小组活动，届时会有邮件通知。如果时间允许，我们强烈建议参加该活动，能够更好地帮助你了解新的环境（往年该活动均有线上选择，但不确定今年是否仍然提供该选项）。另外ETH还贴心地为大家准备了*[“开学前检查单（Checkliste «Studienstart»）”](https://ethz.ch/content/dam/ethz/main/education/bachelor/studienberatung/Studienstart/files/Checkliste_Studienstart_12.2022.pdf)（*该“检查单”中内容均为超链接，点击可直接跳转），同样强烈建议大家阅读参考（其中的“Militär / Zivildienst / Zivilschutz”一条不适用于非瑞士公民*）。
 
@@ -40,7 +40,7 @@
 
 ^
 
-#### **4.3 ETH的课程种类、概况**
+#### **1.3 ETH的课程种类、概况**
 
 在ETH，课程主要分为两类（其他请参见[课程种类](https://ethz.ch/content/dam/ethz/main/eth-zurich/education/lehrentwicklung/files_EN/Liste_LehrveranstaltungstypenEN.pdf)）：
 
@@ -70,3 +70,5 @@
 >
 > > 关于课程种类：
 > > <https://ethz.ch/content/dam/ethz/main/eth-zurich/education/lehrentwicklung/files_EN/Liste_LehrveranstaltungstypenEN.pdf>
+
+^

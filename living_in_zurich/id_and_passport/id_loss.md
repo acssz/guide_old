@@ -1,5 +1,7 @@
 > [success] 本章作者：陈雨航、赵逸飞
 
+> [info] 本章节最近校对于：2024年04月06日
+
 ### **1. 在瑞士境内遗失的**
 【第一步】立即前往对应警局报案并获得受案回执
 - 对于**居住在苏黎世市，且居住证未被盗仅遗失的**，须前往[警局证件挂失处](<https://www.stadt-zuerich.ch/pd/de/index/stadtpolizei_zuerich/ueber_uns/standorte/weitere_dienststellen/dienststelle-ausweisverluste.html#nur_fuer_verloreneausweise>)报案
