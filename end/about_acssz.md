@@ -10,6 +10,7 @@
   ![](../.topwrite/assets/image_1682199759896.png =160)
 * 学联小红书：
   ![](../.topwrite/assets/image_1682199946890.png =159)
+- 学联B站账号：[苏黎世学联ACSSZ](<https://space.bilibili.com/440148595>)
 * 学联邮箱：<info@acssz.org>
 
 ^
