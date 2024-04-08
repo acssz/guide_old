@@ -11,8 +11,9 @@
 有许多房源皆为第三种（即不提供家具），因此不要被劝退，可选择自行置办家具。此时，建议首先尝试收二手家具（微信群、本地二手平台、Facebook等，可直接谷歌搜索**second hand furniture zurich**），或在家附近捡一些居民不用的家具（带有**gratis**字样纸条），实在缺少再通过[IKEA](https://www.ikea.com/ch/en/)等平台添置。
 
 ^
+
 ### **2. 关于搬家**
 
 一般情况下，不建议通过公共交通搬运大件家具，有被检票员要求下车的风险。不过通过公共交通来运输个人行李是完全合规的。
 
-如果行李、家具较多希望驾车搬家的，可参考[《关于驾车出行》章节](<../living_in_zurich/travel/driving_in_zurich.md>)。
+如果行李、家具较多希望驾车搬家的，可参考[《关于驾车出行》章节](../living_in_zurich/travel/driving_in_zurich.md)。
