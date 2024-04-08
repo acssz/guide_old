@@ -1,6 +1,6 @@
 > [success] 本章作者：俞玥、赵逸飞
 
-> [info] 本章节最近校对于：2024年04月06日
+> [info] 本章节最近校对于：2024年04月08日
 
 > [warning] 【学联提醒】*对于首次赴瑞的同学，在入境办理完首次住址申报（见[《关于“户口”和住址申报》章节](<../living_in_zurich/register.md>)）前**无法办理**瑞士的《无债务证明》（Betreibungsauszug）和《无犯罪记录证明》（Strafregisterauszug）。*
 
