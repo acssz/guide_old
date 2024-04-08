@@ -25,7 +25,7 @@
         * [共享单车/滑板车](living_in_zurich/travel/shared_bikes_scooters.md)
         * [自购单车/滑板车](living_in_zurich/travel/buying_bikes_scooters.md)
         * [出租车/网约车](living_in_zurich/travel/taxi.md)
-        * [关于驾照](living_in_zurich/travel/driving_license.md)
+        * [关于驾照和驾车出行](living_in_zurich/travel/driving_in_zurich.md)
         * [关于跨境出行](living_in_zurich/travel/cross-boarder_trips.md)
     * [瑞士电话卡的办理和使用](living_in_zurich/sim-card_ch.md)
     * [关于“户口”和住址申报](living_in_zurich/register.md)
