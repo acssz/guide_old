@@ -38,7 +38,7 @@
 
 对于居住地在苏黎世市区，且是ETH/UZH学生身份（本科/硕士/博士）的，应于抵达苏黎世州后14天内**凭预约**前往
 
-* ~~**ETH\&UZH留学生专用人口登记办公室 \[Residents' Registration Office (Student Administrations**)]~~
+* ~~**ETH\&UZH留学生专用人口登记办公室 \[Residents' Registration Office (Student Administrations)]**~~
 ➢ ~~[预约链接](https://www.etermin.net/unieth)~~
 ➢ ~~地址：[Fabrikstrasse 3, 8005 Zürich](https://www.google.com/maps/dir//Fabrikstrasse+3,+8005+Z%C3%BCrich/@47.387454,8.5268538,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47900a6cb4f4cbf1:0x6156ffd78ddaabea!2m2!1d8.5294287!2d47.3874504?entry=ttu)~~
 
